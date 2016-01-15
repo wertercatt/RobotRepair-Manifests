@@ -1,10 +1,10 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 5285826748213950299 / 2015-11-24 21:42:16
-Total number of files  : 6547
-Total number of chunks : 11231
-Total bytes on disk    : 5616383729
-Total bytes compressed : 2198000560
+Manifest ID / date     : 8716214465352577885 / 2016-01-14 20:17:00
+Total number of files  : 6548
+Total number of chunks : 11232
+Total bytes on disk    : 5616387968
+Total bytes compressed : 2198001008
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -3260,6 +3260,7 @@ Total bytes compressed : 2198000560
         134108      1 EDF286312D613D56C491D34E06A24BC517D252EA     0 core\vgui\fonts\trebuc.ttf
         171792      1 6F337486783479802CC4C4EA9FF50C46551DAE7F     0 core\vgui\fonts\verdana.ttf
        6608540      7 3C38B54A74D71181E9A78F960ECDA5A36E2B1D43     0 core\vgui\fonts\xarialuni.ttf
+          1552      1 1BC2E25F29C03019861BF79D3CA472E895234C81     0 core\vr_fidelity_levels.csv
              0      0 0000000000000000000000000000000000000000    64 portal2_imported
              0      0 0000000000000000000000000000000000000000    64 portal2_imported\maps
        6555034      7 F5480CECF7218FFF44E343CB9F1EB3623EE83B4A     0 portal2_imported\maps\art_testroom.vpk
@@ -6956,7 +6957,7 @@ Total bytes compressed : 2198000560
            969      1 8C3A072F4705C3530231CFBB59715FC3070DC4A6     0 vr\scripts\vscripts\animation\aperture_camera\aperture_camera.lua
              0      0 0000000000000000000000000000000000000000    64 vr\scripts\vscripts\map_scripts
           3485      1 0D3DEC2831AB48F312663B3B291470F6B0E2E25B     0 vr\scripts\vscripts\map_scripts\vr_aperture_main.lua
-         98749      1 52D53056F03EA7E47E8BEC140775887861CA2E27     0 vr\scripts\vscripts\vr_aperture_logic.lua
+        101436      1 9AE8271E63CF9D8B22EB51A3E9287907F0D741D2     0 vr\scripts\vscripts\vr_aperture_logic.lua
          11170      1 7A9F0A0D6BB790D239C8C804B8376A215B39B9FE     0 vr\scripts\vscripts\vr_scriptsystem.lua
              0      0 0000000000000000000000000000000000000000    64 vr\shaders
              0      0 0000000000000000000000000000000000000000    64 vr\shaders\vfx
