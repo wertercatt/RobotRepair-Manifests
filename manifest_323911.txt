@@ -1,14 +1,15 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 8716214465352577885 / 2016-01-14 20:17:00
-Total number of files  : 6548
-Total number of chunks : 11232
-Total bytes on disk    : 5616387968
-Total bytes compressed : 2198001008
+Manifest ID / date     : 2140012626014723743 / 2016-01-28 02:18:19
+Total number of files  : 6473
+Total number of chunks : 10357
+Total bytes on disk    : 4746202855
+Total bytes compressed : 1985737168
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
              0      0 0000000000000000000000000000000000000000    64 bin\win64
+            51      1 EE7DC6F2BAC236BCC3521356BF06AC4A1FDE2DA6     0 bin\win64\minigameslauncher.bat
          44032      1 89A797CC835DCAE1A3D6544A7B0A090B9DE40229     0 bin\win64\mss64dolby.flt
          71168      1 00AD2C452AF4A1F18DAE8FDE34CA726770840FAF     0 bin\win64\mss64ds3d.flt
         131584      1 92DE4FF0AC2FCFE53F581531EA98209473F28D89     0 bin\win64\mss64dsp.flt
@@ -2231,7 +2232,7 @@ Total bytes compressed : 2198001008
              0      0 0000000000000000000000000000000000000000    64 core\tools\bugreporter
            190      1 9D4691A5BFC6F08FE6388C82C8F0BDD757E7602C     0 core\tools\bugreporter\sdk_config.txt
              0      0 0000000000000000000000000000000000000000    64 core\tools\convarhelper
-          6880      1 A1B18A85ADCA324A518070B6AAB6BA7BE4FFAD0C     0 core\tools\convarhelper\vr_public.ini
+          7164      1 8667A43B76CAC86931C3B50F2B81D8170915C305     0 core\tools\convarhelper\vr_public.ini
              0      0 0000000000000000000000000000000000000000    64 core\tools\help
            171      1 1AE2D5C75DE12EDBC59BEF53888A21E2CE081439     0 core\tools\help\assetbrowser_commands_help.txt
              0      0 0000000000000000000000000000000000000000    64 core\tools\help\fgd
@@ -3260,10 +3261,8 @@ Total bytes compressed : 2198001008
         134108      1 EDF286312D613D56C491D34E06A24BC517D252EA     0 core\vgui\fonts\trebuc.ttf
         171792      1 6F337486783479802CC4C4EA9FF50C46551DAE7F     0 core\vgui\fonts\verdana.ttf
        6608540      7 3C38B54A74D71181E9A78F960ECDA5A36E2B1D43     0 core\vgui\fonts\xarialuni.ttf
-          1552      1 1BC2E25F29C03019861BF79D3CA472E895234C81     0 core\vr_fidelity_levels.csv
+          1586      1 8887CD7D65E4D7963E97E909D18482DA9D368F80     0 core\vr_fidelity_levels.csv
              0      0 0000000000000000000000000000000000000000    64 portal2_imported
-             0      0 0000000000000000000000000000000000000000    64 portal2_imported\maps
-       6555034      7 F5480CECF7218FFF44E343CB9F1EB3623EE83B4A     0 portal2_imported\maps\art_testroom.vpk
              0      0 0000000000000000000000000000000000000000    64 portal2_imported\materials
              0      0 0000000000000000000000000000000000000000    64 portal2_imported\materials\cable
           1756      1 1A731E18B54EB6616E333229919D2B77639B78BB     0 portal2_imported\materials\cable\black_color_tga_e7a6c304.vtex_c
@@ -4025,8 +4024,6 @@ Total bytes compressed : 2198001008
           1301      1 463C15D7425E7BB2F0A1017DA168115577955515     0 portal2_imported\particles\tracer_fx\weapon_tracers.vpcf_c
              0      0 0000000000000000000000000000000000000000    64 vr
              0      0 0000000000000000000000000000000000000000    64 vr\aperture
-             0      0 0000000000000000000000000000000000000000    64 vr\aperture\maps
-        574749      1 D3DD0C848E9D7113C167E6BE26454DDCC18C805A     0 vr\aperture\maps\atlas_exploded.vpk
              0      0 0000000000000000000000000000000000000000    64 vr\aperture\materials
              0      0 0000000000000000000000000000000000000000    64 vr\aperture\materials\effects
           4968      1 6E50BC45E604874DFF06FB181A86211A13267BC6     0 vr\aperture\materials\effects\atlas_holo01.vmat_c
@@ -4559,7 +4556,7 @@ Total bytes compressed : 2198001008
           6656      1 65B4C4842228430571D9643FF1E95F077383CABF     0 vr\aperture\models\materials\aperture_glass.vmat_c
           1740      1 A43D1D7304E189670B87E7C60AB61F7DC6F8389D     0 vr\aperture\models\materials\aperture_glass_vmat_g_tcolor_8baff4cf.vtex_c
           1860      1 5B341EF5D508B7DDD072B6F2DC16DBFD90EDBDA5     0 vr\aperture\models\materials\aperture_glass_vmat_g_tnormal_b3e083bd.vtex_c
-      67109624     65 D6DBA727DFBFFCE77B4432411160EFA3CCF46DFA     0 vr\aperture\models\materials\aperture_main_room_cube_tga_fa489478.vtex_c
+       8389352      9 A300D9F58A659FBE68961CEBBA75EEC32AD6256A     0 vr\aperture\models\materials\aperture_main_room_cube_tga_fa489478.vtex_c
           8936      1 CBB83BAD4BEB8DACE710ECF3E0D88EDF33F259BD     0 vr\aperture\models\materials\aperture_security_camera.vmat_c
        2798028      3 94AEEEA4FE00582DD39D6DD9A1B3077F6E27E30F     0 vr\aperture\models\materials\aperture_security_camera_color_psd_122f178a.vtex_c
           8544      1 010F1400E2ABDE53A312B3B57F73DB5647BD5611     0 vr\aperture\models\materials\aperture_security_camera_glass.vmat_c
@@ -4765,7 +4762,7 @@ Total bytes compressed : 2198001008
          23940      1 7A887B52C1D6B0370E81666E9E4AED62BB2F6052     0 vr\aperture\models\materials\gdc_hard_bounds_color_psd_dc8dc990.vtex_c
           6024      1 A3025762D72EE8F10926990EEB71957973A773EF     0 vr\aperture\models\materials\holder_arm.vmat_c
        2797980      3 6F52BEA14FFEE3168E0E1A95B80266C1658FA5B4     0 vr\aperture\models\materials\holder_arm_color_tga_5784df3a.vtex_c
-          8260      1 7F6818AB5BA6988CE285A12ADC70188226501D55     0 vr\aperture\models\materials\indoor_plant_01_office.vmat_c
+          8260      1 D7AAAAA04E3ECB9EADA608A7016C979D5AFA1470     0 vr\aperture\models\materials\indoor_plant_01_office.vmat_c
           4600      1 D10B270269397E2F832CEDE18A8A85D7638BE49C     0 vr\aperture\models\materials\infographic_people.vmat_c
           1500      1 EEEF335CD55172BEB45A9C1CD77B30DF486ACFB1     0 vr\aperture\models\materials\infographic_people_vmat_g_tcolor2_c9beed7c.vtex_c
           7192      1 CCF7BCEBD8944FC254AECA4F3AC166AD29C1E137     0 vr\aperture\models\materials\keyboard_and_phone.vmat_c
@@ -4863,9 +4860,9 @@ Total bytes compressed : 2198001008
         176572      1 0FFF68B2608DAB6F09776099A074B7F4A3DB0321     0 vr\aperture\models\materials\office_side_table_color_psd_4b4f80a3.vtex_c
        2099044      3 6BCCE33DAEDF23F569896DD468898B6A547A6155     0 vr\aperture\models\materials\office_table_props_lightmap_psd_6913ef4.vtex_c
        4196500      5 FF53E099A8AA803DA88ACA6A753D6E20F36BE879     0 vr\aperture\models\materials\office_table_props_lightmap_psd_baf37a36.vtex_c
-          7448      1 7F684BA1E194D6D55CEF8CF32CF44DA2EA0274B3     0 vr\aperture\models\materials\office_waiting_sign.vmat_c
+          7448      1 7F6F27F0F410FEB9AA04E8171791E8C1E5173F00     0 vr\aperture\models\materials\office_waiting_sign.vmat_c
         176884      1 E16B3CFDE289D5EC813D98BD4505802675317941     0 vr\aperture\models\materials\office_waiting_sign_color_psd_a88d4260.vtex_c
-     134219876    130 4B3E3BA5040B3B501CA4D22505646B7157553D4E     0 vr\aperture\models\materials\office_walls_lightmap_psd_ecc486ce.vtex_c
+      33556580     33 CD9053294BC93AC303251C73C06FC04E8D18C869     0 vr\aperture\models\materials\office_walls_lightmap_psd_ecc486ce.vtex_c
           7128      1 EF5A2DD54C2AD9169FE9722375A7A0CCB312D4F8     0 vr\aperture\models\materials\office_wall_frame_001.vmat_c
         700876      1 E820B0C51F70127290892773458DFE4DE673FFE1     0 vr\aperture\models\materials\office_wall_frame_001_color_psd_c98f5b03.vtex_c
        4196484      5 927C1D56F58170E1300AE384EE3685A99FFBEADC     0 vr\aperture\models\materials\office_wall_props_lightmap_psd_2e65b075.vtex_c
@@ -4891,8 +4888,8 @@ Total bytes compressed : 2198001008
           1860      1 704C21CA92EEDB03C3E3F4F2296D4A96817A5308     0 vr\aperture\models\materials\panel_lettering_vmat_g_tnormal_7b4506fd.vtex_c
           5264      1 ACCA95F3EAD084011BD0ED08136FCECE529314F8     0 vr\aperture\models\materials\paper.vmat_c
           7268      1 79F358855FD633E8E99C0BC7EDEB697364FC49B6     0 vr\aperture\models\materials\pencilsharpener01.vmat_c
-          7108      1 CDE2AE2A3AD4E23A56E1BD22705FA9FD3DCD43E2     0 vr\aperture\models\materials\plasticwall1970_01.vmat_c
-          7140      1 E9B8C1F5D943C1236397144FDDB8B497D0C10790     0 vr\aperture\models\materials\plasticwall1970_02.vmat_c
+          7108      1 5B1A1357ADD412EBF15168449FB6AD718061973A     0 vr\aperture\models\materials\plasticwall1970_01.vmat_c
+          7140      1 EC01CD7A79D4093A9F5B6DE75508CB0E912C33B9     0 vr\aperture\models\materials\plasticwall1970_02.vmat_c
        2798012      3 0B4D4495F22EF42F2CBBC7A0FC8E250AD171A418     0 vr\aperture\models\materials\plasticwall1970_02_color_psd_ab21aa8.vtex_c
           7480      1 6AB21DF00E31DAD4BD33E5405BB8F51F575635D0     0 vr\aperture\models\materials\poster_aperture01.vmat_c
        5594516      6 8DC734FCD03F99B7055FE86F2E3418847E718D38     0 vr\aperture\models\materials\poster_aperture01_color_tga_e47c553f.vtex_c
@@ -5044,7 +5041,7 @@ Total bytes compressed : 2198001008
         132932      1 51B4B3F02872D80DFDCF401DD6EA06505F13E807     0 vr\aperture\models\materials\telephone_lightmap_psd_7748d87d.vtex_c
         700812      1 123B0FE744D3AEDF8E989F1A4A548C6464C9FC93     0 vr\aperture\models\materials\telephone_refl_psd_5311f9d3.vtex_c
           7184      1 4A9568F79E792A1BC45767F7640FE7185600E9A8     0 vr\aperture\models\materials\telephone_rotary.vmat_c
-          7744      1 E2355B3FF9924AA9555EAEE58D415BE520E03A2C     0 vr\aperture\models\materials\telephone_rotary_transp.vmat_c
+          7744      1 570CD9AFF820B7C37AA460C15C891DC13BD73431     0 vr\aperture\models\materials\telephone_rotary_transp.vmat_c
           1508      1 0BC393BB9299AEE3D56063B6625D19AEDBF45533     0 vr\aperture\models\materials\telephone_rotary_transp_vmat_g_tcolor_a2e608e4.vtex_c
           1860      1 7052B9F120170C511BF3B7F94041A12715F68954     0 vr\aperture\models\materials\telephone_rotary_transp_vmat_g_tnormal_a19ae2eb.vtex_c
           1860      1 B36226AB102F43FFD4721A49A88D91C2FE585492     0 vr\aperture\models\materials\telephone_rotary_vmat_g_tnormal_e684d85.vtex_c
@@ -5386,104 +5383,15 @@ Total bytes compressed : 2198001008
           1426      1 2890173D07E11C39709D05A2CAB0DAC0F929314C     0 vr\cfg\user_keys_default.vcfg
           3452      1 3E53D34C588E7CA9620675ED542360A8824E67EA     0 vr\gameinfo.gi
              0      0 0000000000000000000000000000000000000000    64 vr\maps
-       1747054      2 066E9E690E2FD66B8185F422206331D0491DDEBC     0 vr\maps\defend_castle.vpk
-        881885      1 7747F3521A1C3E2F05F17A93855FA518DEA3BD0D     0 vr\maps\drawer_anim_testmap.vpk
-        742938      1 284DE78C19C87FB3B5563BF9655E7E3843A99D81     0 vr\maps\ken_timer_map.vpk
-      35509371     34 3A2EBF43F503A620D7320CE22E67E4548EB21E92     0 vr\maps\miniature_apartments.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal\aaronb
-      47769410     46 BF0C4BB22D04B26A8FB2C2AD5EB4E41FC0C250A8     0 vr\maps\personal\aaronb\strider_canyon_02.vpk
-      48239776     47 ADB38B54334A6F4FE862D9D2A30C5E5AA0DB2D70     0 vr\maps\personal\aaronb\vr_aperture_main_elevator.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal\adamf
-        541216      1 2A202935FC370A610A2B2F88DEC7A2AD00DBB64C     0 vr\maps\personal\adamf\func_tank.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal\alireza
-         66399      1 FCEFC2A877BCEDBD314EFAB3DA5A6CFA951CD299     0 vr\maps\personal\alireza\viewroom.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal\chris
-      10457828     10 97AC596D3EAF68DAB9B438F32DB1005C38E0B420     0 vr\maps\personal\chris\cc_aperture_bts_01.vpk
-      18575000     18 10BAAAE55CF533C7CB50B45F9AA927BA75D5EDAC     0 vr\maps\personal\chris\rotate_test.vpk
-      18502267     18 C3CEA5BAC500E0710D3D8B2E621D81657444B137     0 vr\maps\personal\chris\test_capsule_interior_scene_01.vpk
-        588563      1 BA066D2883DA706A1709A0DF558EAD5BDCA55A93     0 vr\maps\personal\chris\test_course_01.vpk
-       6114664      6 A2B2F085A0EEFF4346190B863070D369476854CF     0 vr\maps\personal\chris\test_tearoom_01.vpk
-      41966855     41 295FBA2A8E55A053F3A3EF51B724E2B17B29EE3E     0 vr\maps\personal\chris\test_tearoom_scene_01.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal\don
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal\don\cornell
-        918490      1 D45DAB0CD0E57BFF23C8B5867BBDEB413C837C0E     0 vr\maps\personal\don\cornell\cornell.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal\don\cubemap_override_example
-      33645988     33 CBCCD4B2A4F6920127809409CF216D1286763032     0 vr\maps\personal\don\cubemap_override_example\cubemap_override_example.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal\dougwood
-       1574060      2 7C1D93BBEB595069AF71F20F1D834CB662173BC6     0 vr\maps\personal\dougwood\dodgeroom.vpk
-        402855      1 031996FA0C1F7B4C574D750DB36E1E75FA767919     0 vr\maps\personal\dougwood\secret_shop_animtest.vpk
-       9455177     10 5AE702558D9541E4A28E19576A6A5D0061DAE39B     0 vr\maps\personal\emily_testdemo_room_2.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal\jeep
-        166795      1 BD9A4C2CDD47B18E850C9B4617AD9835A2AC95FE     0 vr\maps\personal\jeep\headlook_test.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal\jeff
-        670466      1 3ECAD85B0058029CC1B03CFCAD4444B1DFBD0FB6     0 vr\maps\personal\jeff\vr_aperture_testchamber_demo.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal\skody
-       4033305      4 D9C9ADA5DA547952768C4BC0B3B1D2485C29A0E9     0 vr\maps\personal\skody\vr_l4d_characters_skody.vpk
-       8306420      8 EA07873E3F3020DF76F788D92A9F6E6409955808     0 vr\maps\personal\skody\vr_platform_shooter.vpk
-      99537580     95 B67112D858440313375D7F42F390C1CEEA4B4D29     0 vr\maps\personal\skody\vr_zombie_spawning_test.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\personal\tejeev
-        531491      1 01E34D45CDD84EC8E3545C9D87A793B68C82A649     0 vr\maps\personal\tejeev\secret_shop_look_test.vpk
              0      0 0000000000000000000000000000000000000000    64 vr\maps\prefabs
-      20556887     20 CE546DEA3CC7D7E7E2571D9158740B2732D394F8     0 vr\maps\prefabs\aperture_bts_01.vpk
        8389384      9 DDC70A4BB47D0C8EB2E9A8D742B85C57E1EFAB6C     0 vr\maps\prefabs\aperture_bts_01_cubemap_main.vtex_c
-        288747      1 1B537293F9BEF1628959EAF4AE00D97409AADEF1     0 vr\maps\prefabs\aperture_bts_testchamber_01.vpk
-       3011898      3 5187FAD69D43887A3EF3208124175332F5404F32     0 vr\maps\prefabs\aperture_bts_zoo.vpk
-         50872      1 4D900681DE7C7BB42B30C7C4FCDADE7C5BB5BE31     0 vr\maps\prefabs\aperture_intro_room.vpk
-         25571      1 98947C49567B2D51D98B851651CA4611EA9243E7     0 vr\maps\prefabs\aperture_main_snd.vpk
-         33754      1 8F7163B296E34483D476F2EBF8DB94279AD0816F     0 vr\maps\prefabs\aperture_sound_sources.vpk
-        308305      1 C03AA3EA6D24DF0F2E00D91E474F3F50E6861557     0 vr\maps\prefabs\atlas_sequence.vpk
        8389384      9 DB8F83ACA2DAB6C6CD53F7218EC7477C89D14CDA     0 vr\maps\prefabs\atlas_sequence_atlas_cubemap.vtex_c
        8389496      9 048BCC680386837FCC71C32DA9C13C2D739D9CBE     0 vr\maps\prefabs\atlas_sequence_backroom_container_interior_cubemap.vtex_c
        8389448      9 4DF4C5A47A8E7B87F3B1E84634CD18DB45B48EDC     0 vr\maps\prefabs\atlas_sequence_robot_container_interior.vtex_c
        8389416      9 5CB5E705DCE1577DB509F4C2A0478D7D04703A19     0 vr\maps\prefabs\atlas_sequence_start_room_cubemap.vtex_c
-       2233024      3 A51DCECDCFB9A8EF61397934AEFBF88364DCDB5F     0 vr\maps\prefabs\bts_conveyor_track_structure.vpk
-         26072      1 2CB16E45F9091C4CEE6D3E672A0D3ACD76E23021     0 vr\maps\prefabs\demo_room_assembly.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\prefabs\previz_prefabs
-         34314      1 2F8AE9C9F9D693A2A12323FD8B712D2AE211C02E     0 vr\maps\prefabs\previz_prefabs\glados_previz.vpk
-         27813      1 A7C10B98362A5F3E6921F5805596014B2AE7574E     0 vr\maps\prefabs\previz_prefabs\previz_ambient_factory_motion.vpk
-        123456      1 B96EA9FB67667DDA8527F133EED6F6AF829E32BE     0 vr\maps\prefabs\previz_prefabs\previz_controller_pickup.vpk
-         48251      1 36E489B29645957B240727C26922F45DC7BE02F5     0 vr\maps\prefabs\previz_prefabs\previz_cube_dispense_pickup.vpk
-         48199      1 BD4DC67B2574E79FBA018D2B617F16CE49BAF07A     0 vr\maps\prefabs\previz_prefabs\previz_cube_spawn_button.vpk
-         27918      1 C443D2B47D0AD6DB49919CE3DD007BA6D59FA752     0 vr\maps\prefabs\previz_prefabs\previz_front_wall_dissassembly.vpk
-        174699      1 2C2196B73DCA0B802BE71AFA949DE6DD31C6B30C     0 vr\maps\prefabs\previz_prefabs\previz_miniature_drawers.vpk
-         54097      1 93BFE1184C3E86ED78F4635587ABD822DC914F08     0 vr\maps\prefabs\previz_prefabs\previz_robot_door.vpk
-         36869      1 D6B03625D7DB6866A3B7725CF780C638F7F1690B     0 vr\maps\prefabs\previz_prefabs\previz_robot_hallway.vpk
-         27569      1 C901A5779C56784D5441A7DC8BD3F5ABF4940A6C     0 vr\maps\prefabs\previz_prefabs\previz_room_assembly.vpk
-         76572      1 2474DE845B78557E82C2DFB4187D036FF9931BF1     0 vr\maps\prefabs\previz_prefabs\previz_room_assembly_conveyor.vpk
-         49290      1 9EB7A70C34A49BB172308881D56CEDE48150093D     0 vr\maps\prefabs\previz_prefabs\previz_shutters_and_room_assembly.vpk
-         27619      1 7C7AE86C0D6AC452540CA244F5DE08BFEB6D7680     0 vr\maps\prefabs\previz_prefabs\previz_window_shutters.vpk
-         36259      1 2CBFF867C0D137C6674322E4BD052EC9DB2F82E1     0 vr\maps\prefabs\vr_aperture_testchamber_end.vpk
        8389464      9 9089DF184EBC64CAD7856B4B67686DD1E1A9F74A     0 vr\maps\prefabs\vr_aperture_testchamber_end_bigroom_cubemap.vtex_c
        8389464      9 5619F232285C4CF47BD8FE1C48BC65D7D5473222     0 vr\maps\prefabs\vr_aperture_testchamber_end_smallroom_cubemap.vtex_c
-      36609422     35 0BA8DF55D9A9558576E461A4F08F56A4019396D4     0 vr\maps\room_extender_02.vpk
-      21491322     21 C02C815B91A4C1C406208DD54889C733DF20CE3F     0 vr\maps\room_extender_anchor_01.vpk
-      34261177     33 E8BF2F459D2351DB801DAF8C3C468756B75BCF43     0 vr\maps\secret_shop.vpk
-        406787      1 24491B1F6AD30C6D0C7131DD0C1B3ECAD4158162     0 vr\maps\secret_shop_animtest.vpk
-             0      0 0000000000000000000000000000000000000000    64 vr\maps\shader_test
-        438430      1 42EC0E090606D499F50239686619E6C9E2B14439     0 vr\maps\shader_test\shader_test.vpk
-      40233263     39 FEFACDDC0DBC9A5C89CD44D560360EEF5F97D13A     0 vr\maps\testdemo_cockpit.vpk
-      70360487     68 9424CC97506C6525ED1E6D25D906FE8AA1EFC4BF     0 vr\maps\testdemo_cocpit.vpk
-      45634054     44 1B63CDD1B26A806188145BA8727379DEE19FCC02     0 vr\maps\testdemo_room_2.vpk
-        717129      1 D94335CC013062F1A9183A2B250C38EC0FBC915E     0 vr\maps\testdemo_room_distort.vpk
-        718012      1 60F38B9FBD8CEC06F44CA68E442A192AE221A1C7     0 vr\maps\test_card_map.vpk
       88420836     89 7ACFD53C439A00AB7A938181A37187EA3A63697D     0 vr\maps\vr_aperture_main.vpk
-        751891      1 A0C87B3DBBB1DCF7198B5911C6A571C0EAA5A1A0     0 vr\maps\vr_aperture_main_no_exterior.vpk
-        627591      1 DFBFF0D9733C6727A0D29BD6D8BA1366D193D9DA     0 vr\maps\vr_atlas_exploded.vpk
-        596415      1 B3217B07C764004693F07848DA50A7AC4D6427CB     0 vr\maps\vr_atlas_pull_test.vpk
-       1066101      2 9D8CD9B6322E9534ADF95129AC755DFFD4280A5B     0 vr\maps\vr_ballbot.vpk
-        534523      1 F3D12A34CB061DA2E157FFA9C4822933CE70A160     0 vr\maps\vr_camera_lookat_test.vpk
-        794306      1 545C7070534C5F8240D4C912524FDDA16AB48734     0 vr\maps\vr_demo_1.vpk
-       1016441      1 4D7DD1B891B8C283EA082C9CADC9E04B4E78C439     0 vr\maps\vr_demo_2.vpk
-        846177      1 16D1A71A6B018D8E9114CD9725E74F8386D2AD4C     0 vr\maps\vr_demo_3.vpk
-      16977525     17 BBFE5A109A0EBD97742D81EE4E12C1BEFD036869     0 vr\maps\vr_demo_room.vpk
-        174747      1 A65BED454DAE0820CE4416BFC313EAEAA0300599     0 vr\maps\vr_glados_anim_test.vpk
-        613608      1 12942E665D3D636E774199686C177472FE7876A9     0 vr\maps\vr_hl2_characters.vpk
-        711578      1 F6315080C84FDF8BFE526D7848C904296E17EC3C     0 vr\maps\vr_l4d_characters.vpk
-         78205      1 590F4FEE158F25AD0A5AE6AA3441502F0D1D654F     0 vr\maps\vr_longbow.vpk
-       1313620      2 ABAC34C2ED52482E40BC20DEBC36A30F912F502D     0 vr\maps\vr_portal_characters.vpk
-        235082      1 E3EBF0756EEA3C3F821C657EB768DE5DCEBCC671     0 vr\maps\vr_prefab_spawn_test.vpk
-       8190364      8 D7B515EF21D7940802A0E3F0730149C7FE9BE223     0 vr\maps\vr_valve.vpk
              0      0 0000000000000000000000000000000000000000    64 vr\materials
              0      0 0000000000000000000000000000000000000000    64 vr\materials\aaronb
        5594500      6 344B8FA6F698E9D83527E5EB4A9730D971E50416     0 vr\materials\aaronb\thorn_bush_01_color_psd_dc5b554b.vtex_c
@@ -6944,7 +6852,7 @@ Total bytes compressed : 2198001008
           1610      1 FF9ED1EC699A3625743A42A3E7BCF46745257927     0 vr\particles\spark_fx\sparks_omni_i.vpcf_c
           1496      1 3E16EC28E6FC2F1588770624EC126F0E23A2DE01     0 vr\particles\spark_fx\sparks_omni_j.vpcf_c
           1331      1 3C646D6EB183D27310CE2082CE065F446131B90F     0 vr\particles\spark_fx\sparks_omni_k.vpcf_c
-       1608241      2 FE015FF9A82D02533077FF92978F9B1E15BBBAE1     0 vr\readonly_tools_asset_info.bin
+       1608241      2 78C1B3E3D08B08EAC3157AE4017EBD353D836B57     0 vr\readonly_tools_asset_info.bin
              0      0 0000000000000000000000000000000000000000    64 vr\resource
           2923      1 7A21C1BD1346A7EAA80E0D145905246C3EB904BF     0 vr\resource\hltvevents.res
              0      0 0000000000000000000000000000000000000000    64 vr\scripts
@@ -6957,7 +6865,7 @@ Total bytes compressed : 2198001008
            969      1 8C3A072F4705C3530231CFBB59715FC3070DC4A6     0 vr\scripts\vscripts\animation\aperture_camera\aperture_camera.lua
              0      0 0000000000000000000000000000000000000000    64 vr\scripts\vscripts\map_scripts
           3485      1 0D3DEC2831AB48F312663B3B291470F6B0E2E25B     0 vr\scripts\vscripts\map_scripts\vr_aperture_main.lua
-        101436      1 9AE8271E63CF9D8B22EB51A3E9287907F0D741D2     0 vr\scripts\vscripts\vr_aperture_logic.lua
+        101470      1 9AB1470E03D2C6FDF13CCBD35A43F86B2DD7D7B5     0 vr\scripts\vscripts\vr_aperture_logic.lua
          11170      1 7A9F0A0D6BB790D239C8C804B8376A215B39B9FE     0 vr\scripts\vscripts\vr_scriptsystem.lua
              0      0 0000000000000000000000000000000000000000    64 vr\shaders
              0      0 0000000000000000000000000000000000000000    64 vr\shaders\vfx
