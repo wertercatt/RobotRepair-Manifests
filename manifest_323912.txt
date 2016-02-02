@@ -1,10 +1,10 @@
 Content Manifest for Depot 323912
 
-Manifest ID / date     : 4550675742459482185 / 2016-01-28 02:18:55
+Manifest ID / date     : 113569684925135083 / 2016-02-02 01:35:32
 Total number of files  : 78
 Total number of chunks : 189
-Total bytes on disk    : 157465200
-Total bytes compressed : 45804272
+Total bytes on disk    : 157467248
+Total bytes compressed : 45806704
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -37,7 +37,7 @@ Total bytes compressed : 45804272
         378368      1 14E60FC90C0DE76495F79E0E1077B3C2F7C99129     0 bin\win64\libpangoft2-1.0-0.dll
         564736      1 0AFE276D183FE728D69ACC398994F1E4BC736E28     0 bin\win64\libswscale-3.dll
         287232      1 F6BEDFF5943FE546BA2AD35068EDE83764C2C81D     0 bin\win64\localize.dll
-       1362432      2 820D066FFB1273E66C677B2A376F99B7433EC464     0 bin\win64\materialsystem2.dll
+       1363456      2 D732BCC75362EB56BB212D0CA55B761B9B8DA11B     0 bin\win64\materialsystem2.dll
        1284096      2 EFE892E7F8CA48D91306C71CB49C75E733083CC2     0 bin\win64\meshsystem.dll
         486912      1 FDB93B884203348F228F317FB0513BBC382B5245     0 bin\win64\mss64.dll
         741376      1 AD0844529D79C8E3A9D15015D35233C43E27FD1D     0 bin\win64\navsystem.dll
@@ -50,9 +50,9 @@ Total bytes compressed : 45804272
       11631616     12 D3A3B9A3185BA2BF7843050945BD354FE1FABA0B     0 bin\win64\qtgui4.dll
        1192960      2 33349DA2288E7552CBE29212298664C4BEF1DA6E     0 bin\win64\qtopengl4.dll
         492032      1 36DC9B16E91D369E4B2FC982402C854C58812BEA     0 bin\win64\renderingpipelines.dll
-       1579008      2 FD3A8E06A453DCDB4C8662D6ECE732AF0119FFD0     0 bin\win64\rendersystemdx11.dll
-        698368      1 322CDAFB7AA79394F7AAC0288221550439707AE9     0 bin\win64\rendersystemempty.dll
-       1954304      2 DA5F2087ADF43F226C9B9F7FB170DF428664B628     0 bin\win64\rendersystemgl.dll
+       1579520      2 F9D33A8DD33FF118FF3CC0EB430CBC4CB758C057     0 bin\win64\rendersystemdx11.dll
+        698368      1 310C0B3A230DB200FAEE52333A7F816CAADBF4D5     0 bin\win64\rendersystemempty.dll
+       1954304      2 B8AFF7A89FD1972B4A81110E960515A37A4A5EE7     0 bin\win64\rendersystemgl.dll
         941568      1 E45C3A1B4E684D444B2C82472F986503BE0EE9E0     0 bin\win64\resourcesystem.dll
         441856      1 1B93DA34A7CAEBD2D4D009221E8F81F55464F4AB     0 bin\win64\scenefilecache.dll
        3584512      4 129A55FCC110FCE6AF22D510078A179648C10953     0 bin\win64\scenesystem.dll
@@ -80,7 +80,7 @@ Total bytes compressed : 45804272
        1635840      2 CC891FBC3601255008BBEF3988BFDA5CA274E787     0 bin\win64\vguirendersurface.dll
        3166720      4 BD4D6DD460EC5E7EFA59233B720B67C9EC5C89F0     0 bin\win64\video64.dll
        2577408      3 35934EBCAFC34D65EF60CD86DCC082437D116DCB     0 bin\win64\vphysics2.dll
-        514560      1 EF2C618C8F7EEAEF7DE26E14F8DF277E7E14BB67     0 bin\win64\vr.dll
+        515072      1 04183FA99102CE74D0284216BDD1D60DF27E9557     0 bin\win64\vr.dll
         387072      1 4570083EB5D1460517574BD538BC9013E6B1E1D7     0 bin\win64\vr.exe
         942592      1 131DB1ACF63CDF38ACE235C749081E188015980F     0 bin\win64\vscript.dll
         659968      1 647B9DA97F3E1660B7C3639B54BCD62B8AF96014     0 bin\win64\vstdlib.dll
