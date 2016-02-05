@@ -1,10 +1,10 @@
 Content Manifest for Depot 323912
 
-Manifest ID / date     : 5181772896607768476 / 2016-02-03 22:09:12
+Manifest ID / date     : 5459484310968273921 / 2016-02-04 21:53:24
 Total number of files  : 78
 Total number of chunks : 189
 Total bytes on disk    : 157553776
-Total bytes compressed : 45837920
+Total bytes compressed : 45837216
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -80,7 +80,7 @@ Total bytes compressed : 45837920
        1635840      2 CC891FBC3601255008BBEF3988BFDA5CA274E787     0 bin\win64\vguirendersurface.dll
        3166720      4 BD4D6DD460EC5E7EFA59233B720B67C9EC5C89F0     0 bin\win64\video64.dll
        2577408      3 35934EBCAFC34D65EF60CD86DCC082437D116DCB     0 bin\win64\vphysics2.dll
-        513536      1 79F2B7613CECF490D440EC458FC3DF510BCC7B7A     0 bin\win64\vr.dll
+        513536      1 269B4A3E917B48F3C31D38A6B30F04C61512D44B     0 bin\win64\vr.dll
         387072      1 4570083EB5D1460517574BD538BC9013E6B1E1D7     0 bin\win64\vr.exe
         942592      1 131DB1ACF63CDF38ACE235C749081E188015980F     0 bin\win64\vscript.dll
         659968      1 647B9DA97F3E1660B7C3639B54BCD62B8AF96014     0 bin\win64\vstdlib.dll
