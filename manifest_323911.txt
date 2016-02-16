@@ -1,10 +1,10 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 5788424147654593703 / 2016-02-04 21:53:12
+Manifest ID / date     : 3470810762854430307 / 2016-02-15 18:26:07
 Total number of files  : 6473
 Total number of chunks : 10357
-Total bytes on disk    : 4746202559
-Total bytes compressed : 1985737136
+Total bytes on disk    : 4746202575
+Total bytes compressed : 1985737152
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -5381,7 +5381,7 @@ Total bytes compressed : 1985737136
             61      1 270807A1E55392E746526454510FBE53358AB90C     0 vr\cfg\game_convars.vcfg
            406      1 7369BD1A5C040786163F052111AC40DC0E653F27     0 vr\cfg\game_convars_vr.vcfg
           1426      1 2890173D07E11C39709D05A2CAB0DAC0F929314C     0 vr\cfg\user_keys_default.vcfg
-          3452      1 3E53D34C588E7CA9620675ED542360A8824E67EA     0 vr\gameinfo.gi
+          3468      1 D4AC024B12E9D9DE5DA5AF2738610995063390F8     0 vr\gameinfo.gi
              0      0 0000000000000000000000000000000000000000    64 vr\maps
              0      0 0000000000000000000000000000000000000000    64 vr\maps\prefabs
        8389384      9 DDC70A4BB47D0C8EB2E9A8D742B85C57E1EFAB6C     0 vr\maps\prefabs\aperture_bts_01_cubemap_main.vtex_c
