@@ -1,10 +1,10 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 3470810762854430307 / 2016-02-15 18:26:07
+Manifest ID / date     : 5324371352348915460 / 2016-02-16 18:57:41
 Total number of files  : 6473
 Total number of chunks : 10357
-Total bytes on disk    : 4746202575
-Total bytes compressed : 1985737152
+Total bytes on disk    : 4746201822
+Total bytes compressed : 1985737136
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -6865,7 +6865,7 @@ Total bytes compressed : 1985737152
            969      1 8C3A072F4705C3530231CFBB59715FC3070DC4A6     0 vr\scripts\vscripts\animation\aperture_camera\aperture_camera.lua
              0      0 0000000000000000000000000000000000000000    64 vr\scripts\vscripts\map_scripts
           3485      1 0D3DEC2831AB48F312663B3B291470F6B0E2E25B     0 vr\scripts\vscripts\map_scripts\vr_aperture_main.lua
-        101470      1 9AB1470E03D2C6FDF13CCBD35A43F86B2DD7D7B5     0 vr\scripts\vscripts\vr_aperture_logic.lua
+        100717      1 959A1B0A139CC92ABE87993E71F5EF16487C1399     0 vr\scripts\vscripts\vr_aperture_logic.lua
          11170      1 7A9F0A0D6BB790D239C8C804B8376A215B39B9FE     0 vr\scripts\vscripts\vr_scriptsystem.lua
              0      0 0000000000000000000000000000000000000000    64 vr\shaders
              0      0 0000000000000000000000000000000000000000    64 vr\shaders\vfx
