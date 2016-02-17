@@ -1,10 +1,10 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 5324371352348915460 / 2016-02-16 18:57:41
+Manifest ID / date     : 901868129446630737 / 2016-02-17 01:41:53
 Total number of files  : 6473
 Total number of chunks : 10357
-Total bytes on disk    : 4746201822
-Total bytes compressed : 1985737136
+Total bytes on disk    : 4746201886
+Total bytes compressed : 1985737152
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -3261,7 +3261,7 @@ Total bytes compressed : 1985737136
         134108      1 EDF286312D613D56C491D34E06A24BC517D252EA     0 core\vgui\fonts\trebuc.ttf
         171792      1 6F337486783479802CC4C4EA9FF50C46551DAE7F     0 core\vgui\fonts\verdana.ttf
        6608540      7 3C38B54A74D71181E9A78F960ECDA5A36E2B1D43     0 core\vgui\fonts\xarialuni.ttf
-          1290      1 DBE74E917BA0F3819E8A8BE625DC9C078736B999     0 core\vr_fidelity_levels.csv
+          1354      1 BA14E40307670851F060059F7DDF9A4599D3331C     0 core\vr_fidelity_levels.csv
              0      0 0000000000000000000000000000000000000000    64 portal2_imported
              0      0 0000000000000000000000000000000000000000    64 portal2_imported\materials
              0      0 0000000000000000000000000000000000000000    64 portal2_imported\materials\cable
