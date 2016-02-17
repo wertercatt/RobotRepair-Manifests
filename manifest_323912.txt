@@ -1,10 +1,10 @@
 Content Manifest for Depot 323912
 
-Manifest ID / date     : 2487597216973532575 / 2016-02-15 18:26:42
+Manifest ID / date     : 1176341150672512856 / 2016-02-16 18:58:11
 Total number of files  : 78
 Total number of chunks : 189
 Total bytes on disk    : 157556848
-Total bytes compressed : 45832608
+Total bytes compressed : 45832576
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -50,7 +50,7 @@ Total bytes compressed : 45832608
       11631616     12 D3A3B9A3185BA2BF7843050945BD354FE1FABA0B     0 bin\win64\qtgui4.dll
        1192960      2 33349DA2288E7552CBE29212298664C4BEF1DA6E     0 bin\win64\qtopengl4.dll
         492032      1 BA883081DB5355EF36A91EF7041CF33597B97C39     0 bin\win64\renderingpipelines.dll
-       1579520      2 F58442BF549259AEB01AE334F53A87C5EB36BA7D     0 bin\win64\rendersystemdx11.dll
+       1579520      2 6AD9F7FCAF60A58D64D4DD2AABBD3E7826A8EC6C     0 bin\win64\rendersystemdx11.dll
         698368      1 A4D8661641B456806B55E1675A3DA498D4659FA5     0 bin\win64\rendersystemempty.dll
        1954304      2 956F95F7C44F4B657F2917F79A8CB961C5634F3F     0 bin\win64\rendersystemgl.dll
         941568      1 B540575F30EE9268A4610FB056788E365141FCD0     0 bin\win64\resourcesystem.dll
@@ -80,7 +80,7 @@ Total bytes compressed : 45832608
        1635840      2 9CC877583B3C04DC8531A86BC41871896F3D3351     0 bin\win64\vguirendersurface.dll
        3166720      4 BD4D6DD460EC5E7EFA59233B720B67C9EC5C89F0     0 bin\win64\video64.dll
        2577408      3 26DC1354ADEA374325AB0D34F0076E95794EEEB9     0 bin\win64\vphysics2.dll
-        514560      1 245AACEDAEA452D7E5265A679B22A21BA19C0FE5     0 bin\win64\vr.dll
+        514560      1 EECB0F0C697DB4BD03A6030F58B93A0A7E84C39A     0 bin\win64\vr.dll
         387072      1 4570083EB5D1460517574BD538BC9013E6B1E1D7     0 bin\win64\vr.exe
         942592      1 B17F2A1E92E34129221781585F65E2A075556E6F     0 bin\win64\vscript.dll
         659968      1 6E2833A00E213A3175E80BA3F216497999014151     0 bin\win64\vstdlib.dll
