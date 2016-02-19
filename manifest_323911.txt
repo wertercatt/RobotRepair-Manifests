@@ -1,13 +1,32 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 901868129446630737 / 2016-02-17 01:41:53
-Total number of files  : 6473
-Total number of chunks : 10357
-Total bytes on disk    : 4746201886
-Total bytes compressed : 1985737152
+Manifest ID / date     : 5575530510928750951 / 2016-02-18 22:31:04
+Total number of files  : 6483
+Total number of chunks : 10367
+Total bytes on disk    : 4746244829
+Total bytes compressed : 1985768896
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
+             0      0 0000000000000000000000000000000000000000    64 bin\tools
+             0      0 0000000000000000000000000000000000000000    64 bin\tools\bin
+             0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content
+             0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content\vrperftestviewer
+             0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content\vrperftestviewer\icons
+         18188      1 3A55FD1EF165E3BBB619F62CCBF02F42EBF5E68E     0 bin\tools\bin\content\vrperftestviewer\icons\app_icon.png
+           984      1 8A120A8C7A9A59F79726BC8B8DD6D5C78F3E439B     0 bin\tools\bin\content\vrperftestviewer\icons\icon_vrwindow_close.png
+           984      1 1731E87F0E0DE4E378CC9FAF89271330B18671A7     0 bin\tools\bin\content\vrperftestviewer\icons\icon_vrwindow_close_hover.png
+           989      1 6256F19C63C56C9CDDD6D88644F1CAD6C9182E84     0 bin\tools\bin\content\vrperftestviewer\icons\triangle_contract.png
+           993      1 DF258C8F46FDC93C6C8BE5A5B44427F52756173B     0 bin\tools\bin\content\vrperftestviewer\icons\triangle_expand.png
+          2937      1 00DACFA9E328B67C0B2AB7645451A1BBF932B4E0     0 bin\tools\bin\content\vrperftestviewer\icons\triangle_green.png
+          2937      1 D176FC5535942646B840CFEE07B8FF5B159BDF05     0 bin\tools\bin\content\vrperftestviewer\icons\triangle_red.png
+          2937      1 054530C1822C119534268121244D80CB603ED495     0 bin\tools\bin\content\vrperftestviewer\icons\triangle_yellow.png
+             0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content\vrperftestviewer\stylesheets
+          4144      1 235415F97BB893108E5DFF59EB7B73C7C233A781     0 bin\tools\bin\content\vrperftestviewer\stylesheets\vrperftestviewer.qss
+             0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content\vrperftestviewer\translations
+          7742      1 B205966FA9278585A90EA0B7AFD8ACF99065F1FF     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_english.txt
+             0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\win32
+             0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\win32\platforms
              0      0 0000000000000000000000000000000000000000    64 bin\win64
             51      1 EE7DC6F2BAC236BCC3521356BF06AC4A1FDE2DA6     0 bin\win64\minigameslauncher.bat
          44032      1 89A797CC835DCAE1A3D6544A7B0A090B9DE40229     0 bin\win64\mss64dolby.flt
@@ -5381,7 +5400,7 @@ Total bytes compressed : 1985737152
             61      1 270807A1E55392E746526454510FBE53358AB90C     0 vr\cfg\game_convars.vcfg
            406      1 7369BD1A5C040786163F052111AC40DC0E653F27     0 vr\cfg\game_convars_vr.vcfg
           1426      1 2890173D07E11C39709D05A2CAB0DAC0F929314C     0 vr\cfg\user_keys_default.vcfg
-          3468      1 D4AC024B12E9D9DE5DA5AF2738610995063390F8     0 vr\gameinfo.gi
+          3576      1 C6F3536B4E63DEF2E470034F7C185295FB6C1C9C     0 vr\gameinfo.gi
              0      0 0000000000000000000000000000000000000000    64 vr\maps
              0      0 0000000000000000000000000000000000000000    64 vr\maps\prefabs
        8389384      9 DDC70A4BB47D0C8EB2E9A8D742B85C57E1EFAB6C     0 vr\maps\prefabs\aperture_bts_01_cubemap_main.vtex_c
