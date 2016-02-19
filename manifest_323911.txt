@@ -1,9 +1,9 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 3125721501041070932 / 2016-02-19 01:44:52
+Manifest ID / date     : 2514911991218665747 / 2016-02-19 03:17:25
 Total number of files  : 6484
 Total number of chunks : 10368
-Total bytes on disk    : 4746240833
+Total bytes on disk    : 4746240811
 Total bytes compressed : 1985763280
 
           Size Chunks File SHA                                 Flags Name
@@ -20,12 +20,12 @@ Total bytes compressed : 1985763280
           1026      1 5764B65F78516B57DEBDD38122C09218C702C5AE     0 bin\tools\bin\content\vrperftestviewer\icons\triangle_contract.png
           1049      1 9B5374CAD7E721D1718D61B0E5AE9F63FF61B4D6     0 bin\tools\bin\content\vrperftestviewer\icons\triangle_expand.png
           1091      1 118B1ECEC487B077801EB5F73DC57125D8E77028     0 bin\tools\bin\content\vrperftestviewer\icons\triangle_green.png
-          1094      1 C065A4793C559BEB74DF64744377D9879D7EDBF4     0 bin\tools\bin\content\vrperftestviewer\icons\triangle_red.png
+          1094      1 F1E86F8C467507AAD0C335797C733FD8B5594C3F     0 bin\tools\bin\content\vrperftestviewer\icons\triangle_red.png
           1091      1 7600A973F366069520D6C37B533587CD7A987B7A     0 bin\tools\bin\content\vrperftestviewer\icons\triangle_yellow.png
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content\vrperftestviewer\stylesheets
-          4242      1 F59BF255E0AF35CFF27738E748AF200018337A69     0 bin\tools\bin\content\vrperftestviewer\stylesheets\vrperftestviewer.qss
+          4244      1 8B29B6CEEAFEA9B49815910F0098A2A366FECF1D     0 bin\tools\bin\content\vrperftestviewer\stylesheets\vrperftestviewer.qss
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content\vrperftestviewer\translations
-          7758      1 6CB23CF05030B276435A2B00936A4A1B474D344E     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_english.txt
+          7734      1 A4C9F9249556DC57D38AB5E86D1E60806B594699     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_english.txt
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\win32
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\win32\platforms
              0      0 0000000000000000000000000000000000000000    64 bin\win64
