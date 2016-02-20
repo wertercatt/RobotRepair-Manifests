@@ -1,10 +1,10 @@
 Content Manifest for Depot 323912
 
-Manifest ID / date     : 8874007682225066867 / 2016-02-19 17:44:12
+Manifest ID / date     : 234521593852824200 / 2016-02-19 22:11:17
 Total number of files  : 84
 Total number of chunks : 207
-Total bytes on disk    : 172819936
-Total bytes compressed : 50988960
+Total bytes on disk    : 172820448
+Total bytes compressed : 50989408
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -17,7 +17,7 @@ Total bytes compressed : 50988960
        4862976      5 3B67AAAC7E02CEC104A66B003A47CEFF3FCE4F48     0 bin\tools\bin\win32\qt5gui.dll
        4418560      5 369E14C2A772C2E795BEB1C75E1F9F06828E1554     0 bin\tools\bin\win32\qt5widgets.dll
         215120      1 6562C7F856F5BA1BB390474D925F7A79AE432122     0 bin\tools\bin\win32\steam_api.dll
-        152864      1 C139295EC0F70465F4F728625B0265CC762F01D5     0 bin\tools\bin\win32\vrperftestviewer.exe
+        152864      1 2A41E506C8B49DD4BC8E83C46A4F23E70F4D705F     0 bin\tools\bin\win32\vrperftestviewer.exe
              0      0 0000000000000000000000000000000000000000    64 bin\win64
        1947648      2 33A9B77910D8FD01863C704B36163B9178A29BC8     0 bin\win64\animationsystem.dll
         742400      1 7B6673D033D875347AC38F44C2B26FC6A6185F2B     0 bin\win64\ati_compress_wrapper.dll
@@ -90,7 +90,7 @@ Total bytes compressed : 50988960
        1635840      2 9CC877583B3C04DC8531A86BC41871896F3D3351     0 bin\win64\vguirendersurface.dll
        3166720      4 BD4D6DD460EC5E7EFA59233B720B67C9EC5C89F0     0 bin\win64\video64.dll
        2577408      3 26DC1354ADEA374325AB0D34F0076E95794EEEB9     0 bin\win64\vphysics2.dll
-        519168      1 EDE860CA03E7A933E7BED68B2FA42F5D594DD42D     0 bin\win64\vr.dll
+        519680      1 FA821DD5C3059905BF3D21F2F8C6A094F12A7132     0 bin\win64\vr.dll
         387072      1 4570083EB5D1460517574BD538BC9013E6B1E1D7     0 bin\win64\vr.exe
         942592      1 B17F2A1E92E34129221781585F65E2A075556E6F     0 bin\win64\vscript.dll
         659968      1 6E2833A00E213A3175E80BA3F216497999014151     0 bin\win64\vstdlib.dll
