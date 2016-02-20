@@ -1,10 +1,10 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 4118709304522103749 / 2016-02-19 22:10:59
-Total number of files  : 6484
-Total number of chunks : 10368
-Total bytes on disk    : 4746241129
-Total bytes compressed : 1985763328
+Manifest ID / date     : 6326235230838850070 / 2016-02-20 03:33:37
+Total number of files  : 6492
+Total number of chunks : 10376
+Total bytes on disk    : 4746530356
+Total bytes compressed : 1985778720
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -4056,10 +4056,14 @@ Total bytes compressed : 1985763328
           2084      1 104C7012D4648AD05FDFA9E12969A3A2CF0E27F3     0 vr\aperture\materials\effects\white_black_world_gradient_psd_865ab.vtex_c
           5016      1 51CBDFE8B3D1B3FD307D5D24BA4FA6F9D5CE2480     0 vr\aperture\materials\effects\white_vertical_gradiant.vmat_c
           5016      1 EF37198EE5DF44747C01D8E5AAF6331BEA99C32F     0 vr\aperture\materials\effects\white_vertical_gradiant_b.vmat_c
+        176780      1 CB8F9362E697CC4580EB1ECB7427CBBC8AD9A3E4     0 vr\aperture\materials\nav_grid_pattern_color_tga_50a2e18f.vtex_c
           6984      1 8F8C898267CCA97B14C1BB1B591CDD6A61068EA5     0 vr\aperture\materials\office_poster.vmat_c
         700812      1 31D3FDDFA36EC084153ABDFA6DE064A9E6F5F59A     0 vr\aperture\materials\office_poster_color_psd_47b8254.vtex_c
           6288      1 05F197EBBB8DFBFAEDD41E738723754177D7C57D     0 vr\aperture\materials\rust_drips.vmat_c
         701028      1 A37CB3EB36ED54AD11F426BC6DAFA7A3662C8320     0 vr\aperture\materials\rust_drip_color_psd_1f2276e9.vtex_c
+          5288      1 48D170C7CC31B3025BB767C0E674E39EEE5904E3     0 vr\aperture\materials\teleport_area_highlighted.vmat_c
+         45684      1 217F8A948506540F38FEFD872EC950E3F554A551     0 vr\aperture\materials\teleport_marker_color_psd_246315f9.vtex_c
+          5288      1 93D42CC6743C20F127581EAC23D32342C89A44C3     0 vr\aperture\materials\teleport_point_highlighted.vmat_c
           6440      1 96F9F75539F85F40EDEC61F3F4BB8778E0162D9D     0 vr\aperture\materials\warning_light_blink.vmat_c
        2797964      3 25C76517D9DD05E42147CD0D3B2E7150A52D4EAA     0 vr\aperture\materials\warning_light_blink_psd_27380eab.vtex_c
           1620      1 5A0841C5848A3923361467762FF15C223E55CE56     0 vr\aperture\materials\warning_light_blink_vmat_g_tnormal_b9852e60.vtex_c
@@ -5374,6 +5378,10 @@ Total bytes compressed : 1985763328
         259217      1 BC450534B60454D7D752C2F0F13A6F85A341D6BF     0 vr\aperture\models\vista_crane.vmesh_c
           5660      1 E4F182F15C0BB2C88380DC256EDB0DAAEB2BDB42     0 vr\aperture\models\vr_controller.vmdl_c
        1251479      2 15F0F99E849F815090C6780370E5B38C3189CE22     0 vr\aperture\models\vr_controller.vmesh_c
+          3644      1 FC91B82A986C4D813F16F9A215982DA11CD1F9EE     0 vr\aperture\models\vr_teleport_area.vmdl_c
+          1877      1 B4D525935DB481DCDE38026E6219A48158A1EE08     0 vr\aperture\models\vr_teleport_area.vmesh_c
+          3660      1 A0E8B3873AA6AB14AE1018410FF3D9F70163E963     0 vr\aperture\models\vr_teleport_destination.vmdl_c
+         19433      1 51030DC1020F0E719A74AD3F9137D3B797DEEB5C     0 vr\aperture\models\vr_teleport_destination.vmesh_c
           3596      1 46953DA3A45F5064F6CEDFB0EF450E7CD7A5820C     0 vr\aperture\models\wall_clock.vmdl_c
         598868      1 A6F7CC92EF2C9A1033725316898DE3D46AF9DE2B     0 vr\aperture\models\wall_clock.vmesh_c
           4244      1 1E01574CA1E32287D644C10271A46ADFA96BBDEF     0 vr\aperture\models\wall_clock_hour_hand.vmdl_c
@@ -5411,7 +5419,7 @@ Total bytes compressed : 1985763328
        8389416      9 5CB5E705DCE1577DB509F4C2A0478D7D04703A19     0 vr\maps\prefabs\atlas_sequence_start_room_cubemap.vtex_c
        8389464      9 9089DF184EBC64CAD7856B4B67686DD1E1A9F74A     0 vr\maps\prefabs\vr_aperture_testchamber_end_bigroom_cubemap.vtex_c
        8389464      9 5619F232285C4CF47BD8FE1C48BC65D7D5473222     0 vr\maps\prefabs\vr_aperture_testchamber_end_smallroom_cubemap.vtex_c
-      88420836     89 7ACFD53C439A00AB7A938181A37187EA3A63697D     0 vr\maps\vr_aperture_main.vpk
+      88445769     89 7BE1E9AE18CF1248D5EC58B7A56924F08646A94C     0 vr\maps\vr_aperture_main.vpk
              0      0 0000000000000000000000000000000000000000    64 vr\materials
              0      0 0000000000000000000000000000000000000000    64 vr\materials\aaronb
        5594500      6 344B8FA6F698E9D83527E5EB4A9730D971E50416     0 vr\materials\aaronb\thorn_bush_01_color_psd_dc5b554b.vtex_c
@@ -6872,7 +6880,7 @@ Total bytes compressed : 1985763328
           1610      1 FF9ED1EC699A3625743A42A3E7BCF46745257927     0 vr\particles\spark_fx\sparks_omni_i.vpcf_c
           1496      1 3E16EC28E6FC2F1588770624EC126F0E23A2DE01     0 vr\particles\spark_fx\sparks_omni_j.vpcf_c
           1331      1 3C646D6EB183D27310CE2082CE065F446131B90F     0 vr\particles\spark_fx\sparks_omni_k.vpcf_c
-       1608241      2 78C1B3E3D08B08EAC3157AE4017EBD353D836B57     0 vr\readonly_tools_asset_info.bin
+       1610343      2 0210991A08EF86B4EA846AFD9D5BFA6F7E487BEB     0 vr\readonly_tools_asset_info.bin
              0      0 0000000000000000000000000000000000000000    64 vr\resource
           2923      1 7A21C1BD1346A7EAA80E0D145905246C3EB904BF     0 vr\resource\hltvevents.res
              0      0 0000000000000000000000000000000000000000    64 vr\scripts
@@ -6885,7 +6893,7 @@ Total bytes compressed : 1985763328
            969      1 8C3A072F4705C3530231CFBB59715FC3070DC4A6     0 vr\scripts\vscripts\animation\aperture_camera\aperture_camera.lua
              0      0 0000000000000000000000000000000000000000    64 vr\scripts\vscripts\map_scripts
           3485      1 0D3DEC2831AB48F312663B3B291470F6B0E2E25B     0 vr\scripts\vscripts\map_scripts\vr_aperture_main.lua
-        100717      1 959A1B0A139CC92ABE87993E71F5EF16487C1399     0 vr\scripts\vscripts\vr_aperture_logic.lua
+        101255      1 9AF8EFF678047E8BE522A31D2977391C2800A754     0 vr\scripts\vscripts\vr_aperture_logic.lua
          11170      1 7A9F0A0D6BB790D239C8C804B8376A215B39B9FE     0 vr\scripts\vscripts\vr_scriptsystem.lua
              0      0 0000000000000000000000000000000000000000    64 vr\shaders
              0      0 0000000000000000000000000000000000000000    64 vr\shaders\vfx
