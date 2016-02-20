@@ -1,10 +1,10 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 2514911991218665747 / 2016-02-19 03:17:25
+Manifest ID / date     : 4118709304522103749 / 2016-02-19 22:10:59
 Total number of files  : 6484
 Total number of chunks : 10368
-Total bytes on disk    : 4746240811
-Total bytes compressed : 1985763280
+Total bytes on disk    : 4746241129
+Total bytes compressed : 1985763328
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -25,7 +25,7 @@ Total bytes compressed : 1985763280
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content\vrperftestviewer\stylesheets
           4244      1 8B29B6CEEAFEA9B49815910F0098A2A366FECF1D     0 bin\tools\bin\content\vrperftestviewer\stylesheets\vrperftestviewer.qss
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content\vrperftestviewer\translations
-          7734      1 A4C9F9249556DC57D38AB5E86D1E60806B594699     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_english.txt
+          8052      1 D8D87C6C7ABE538A9C482F59ABA80006E490D49D     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_english.txt
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\win32
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\win32\platforms
              0      0 0000000000000000000000000000000000000000    64 bin\win64
