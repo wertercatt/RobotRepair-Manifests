@@ -1,10 +1,10 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 572581985221547052 / 2016-02-21 22:37:27
-Total number of files  : 6503
-Total number of chunks : 10387
-Total bytes on disk    : 4746647058
-Total bytes compressed : 1985795136
+Manifest ID / date     : 8786574704879653508 / 2016-02-22 01:12:33
+Total number of files  : 6507
+Total number of chunks : 10391
+Total bytes on disk    : 4746689232
+Total bytes compressed : 1985800896
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -25,18 +25,22 @@ Total bytes compressed : 1985795136
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content\vrperftestviewer\stylesheets
           4244      1 8B29B6CEEAFEA9B49815910F0098A2A366FECF1D     0 bin\tools\bin\content\vrperftestviewer\stylesheets\vrperftestviewer.qss
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content\vrperftestviewer\translations
-         18002      1 378258F41FB7208FBE1F327F1318821C3EC26817     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_bulgarian.txt
+          7710      1 50B7EAF4B11B56DBCD21908FC399B64DA59109BB     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_brazilian.txt
+         18242      1 2B2A76E31842533967E8D1BF1A74919ECC2C7F85     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_bulgarian.txt
+          1680      1 EB02E27E54DDCD1C323E73377F11D129AC2A26E2     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_dutch.txt
           8062      1 F75B3324D3E10C7EC1BB596F71FB628A86D942B1     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_english.txt
-         18740      1 7D3484896251874BFA955EAECC121BED05181BBB     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_french.txt
-         12958      1 DEBDC200E7E46FABBEE4BD29781B28F5C8AC38DC     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_german.txt
+         18750      1 823E95C02123BBBBF9A888331015AD754AE732B6     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_french.txt
+         17302      1 210F7275A7014C8C08AE5642FB0A7F309B2CAEA4     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_german.txt
           5558      1 CC13B9A1BE9D7CA61A4498DC8C358330F4BC115A     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_greek.txt
          14956      1 37D6A77D822C8FBE5DF601E47DB54F9B54BD94FA     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_hungarian.txt
-          5256      1 AD7BDFE80DD425012BA4EE67FFD388DD87BE35D6     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_japanese.txt
+         14736      1 4C8011BAB05397128F32B0E2F22B93761D7EDD05     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_japanese.txt
           9450      1 134CD8846E6E1B866C8B0250CB0C2B8086B5C473     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_polish.txt
           3762      1 BB4382CA528047590872D83154EB23815AA44571     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_romanian.txt
           1202      1 92909A3715838992864DAE3043071B99B61AF88B     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_russian.txt
+         17730      1 11014971E52753AEE3D00DD6BD14E1556E3AFE3F     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_spanish.txt
          16834      1 450FFF83B79B22B77CC323C62D3BEEE9480CDEE8     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_swedish.txt
           9972      1 E8B2217B2CB1D29E5D1A79F5E105328799FEFA08     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_turkish.txt
+           980      1 54C74A7BE4544E1267B274FBC5F0DCFCC754F2AA     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_ukrainian.txt
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\win32
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\win32\platforms
              0      0 0000000000000000000000000000000000000000    64 bin\win64
