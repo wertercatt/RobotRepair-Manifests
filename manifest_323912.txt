@@ -1,10 +1,10 @@
 Content Manifest for Depot 323912
 
-Manifest ID / date     : 4332308881917983250 / 2016-02-22 02:16:09
+Manifest ID / date     : 7195494248281748808 / 2016-02-22 03:19:30
 Total number of files  : 84
 Total number of chunks : 207
-Total bytes on disk    : 172842464
-Total bytes compressed : 50994240
+Total bytes on disk    : 172839392
+Total bytes compressed : 50993888
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -17,7 +17,7 @@ Total bytes compressed : 50994240
        4862976      5 3B67AAAC7E02CEC104A66B003A47CEFF3FCE4F48     0 bin\tools\bin\win32\qt5gui.dll
        4418560      5 369E14C2A772C2E795BEB1C75E1F9F06828E1554     0 bin\tools\bin\win32\qt5widgets.dll
         215120      1 6562C7F856F5BA1BB390474D925F7A79AE432122     0 bin\tools\bin\win32\steam_api.dll
-        157984      1 00F103CB0883ED737C7A61374EBDBE45631D47DB     0 bin\tools\bin\win32\vrperftestviewer.exe
+        154912      1 290A470A98DEA1C39A4ECB9EDA3298EAC444B9A5     0 bin\tools\bin\win32\vrperftestviewer.exe
              0      0 0000000000000000000000000000000000000000    64 bin\win64
        1947648      2 33A9B77910D8FD01863C704B36163B9178A29BC8     0 bin\win64\animationsystem.dll
         742400      1 7B6673D033D875347AC38F44C2B26FC6A6185F2B     0 bin\win64\ati_compress_wrapper.dll
