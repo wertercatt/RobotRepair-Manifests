@@ -1,10 +1,10 @@
 Content Manifest for Depot 323912
 
-Manifest ID / date     : 3859709957206173603 / 2016-02-22 18:12:11
-Total number of files  : 84
-Total number of chunks : 207
-Total bytes on disk    : 172840416
-Total bytes compressed : 51001040
+Manifest ID / date     : 359643725402060562 / 2016-02-23 17:39:02
+Total number of files  : 85
+Total number of chunks : 209
+Total bytes on disk    : 174235104
+Total bytes compressed : 51463936
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -17,7 +17,7 @@ Total bytes compressed : 51001040
        4862976      5 3B67AAAC7E02CEC104A66B003A47CEFF3FCE4F48     0 bin\tools\bin\win32\qt5gui.dll
        4418560      5 369E14C2A772C2E795BEB1C75E1F9F06828E1554     0 bin\tools\bin\win32\qt5widgets.dll
         215120      1 6562C7F856F5BA1BB390474D925F7A79AE432122     0 bin\tools\bin\win32\steam_api.dll
-        154912      1 04DAF2F3D98891DEFFAD10F60B62459CC08E0ADE     0 bin\tools\bin\win32\vrperftestviewer.exe
+        155424      1 9D785B80151BFE709DC53B4E331FD9C04A352B09     0 bin\tools\bin\win32\vrperftestviewer.exe
              0      0 0000000000000000000000000000000000000000    64 bin\win64
        1947648      2 33A9B77910D8FD01863C704B36163B9178A29BC8     0 bin\win64\animationsystem.dll
         742400      1 7B6673D033D875347AC38F44C2B26FC6A6185F2B     0 bin\win64\ati_compress_wrapper.dll
@@ -61,6 +61,7 @@ Total bytes compressed : 51001040
        1192960      2 33349DA2288E7552CBE29212298664C4BEF1DA6E     0 bin\win64\qtopengl4.dll
         492032      1 5FCE56875C411F4E97A4C7B45C6F6D0E444BFC1B     0 bin\win64\renderingpipelines.dll
        1579520      2 70073185D3C7870A045179F220E95AAFEFDFE882     0 bin\win64\rendersystemdx11.dll
+       1395200      2 53B4D3150A82C195E1407E9A2203A3EBD724A141     0 bin\win64\rendersystemdx9.dll
         698368      1 A4D8661641B456806B55E1675A3DA498D4659FA5     0 bin\win64\rendersystemempty.dll
        1954304      2 93DF41A880A0ECF7DA31CB1C4FA17AB014443AF6     0 bin\win64\rendersystemgl.dll
         941568      1 B540575F30EE9268A4610FB056788E365141FCD0     0 bin\win64\resourcesystem.dll
@@ -90,7 +91,7 @@ Total bytes compressed : 51001040
        1635840      2 9CC877583B3C04DC8531A86BC41871896F3D3351     0 bin\win64\vguirendersurface.dll
        3166720      4 BD4D6DD460EC5E7EFA59233B720B67C9EC5C89F0     0 bin\win64\video64.dll
        2577408      3 26DC1354ADEA374325AB0D34F0076E95794EEEB9     0 bin\win64\vphysics2.dll
-        523264      1 A289A516ECA6DA2C9DF812026A35603BF20E9EBB     0 bin\win64\vr.dll
+        522240      1 E0F8DB78488ECCFCA9F338E815B910A9F4760A80     0 bin\win64\vr.dll
         387072      1 0126BE063386FD0A851877D483B53BCE604F5242     0 bin\win64\vr.exe
         942592      1 B17F2A1E92E34129221781585F65E2A075556E6F     0 bin\win64\vscript.dll
         659968      1 6E2833A00E213A3175E80BA3F216497999014151     0 bin\win64\vstdlib.dll
