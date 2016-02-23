@@ -1,10 +1,10 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 8786574704879653508 / 2016-02-22 01:12:33
-Total number of files  : 6507
-Total number of chunks : 10391
-Total bytes on disk    : 4746689232
-Total bytes compressed : 1985800896
+Manifest ID / date     : 5089510355086081429 / 2016-02-22 18:11:33
+Total number of files  : 6509
+Total number of chunks : 10393
+Total bytes on disk    : 4746783634
+Total bytes compressed : 1985814512
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -25,22 +25,24 @@ Total bytes compressed : 1985800896
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content\vrperftestviewer\stylesheets
           4244      1 8B29B6CEEAFEA9B49815910F0098A2A366FECF1D     0 bin\tools\bin\content\vrperftestviewer\stylesheets\vrperftestviewer.qss
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\content\vrperftestviewer\translations
-          7710      1 50B7EAF4B11B56DBCD21908FC399B64DA59109BB     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_brazilian.txt
-         18242      1 2B2A76E31842533967E8D1BF1A74919ECC2C7F85     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_bulgarian.txt
-          1680      1 EB02E27E54DDCD1C323E73377F11D129AC2A26E2     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_dutch.txt
-          8062      1 F75B3324D3E10C7EC1BB596F71FB628A86D942B1     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_english.txt
-         18750      1 823E95C02123BBBBF9A888331015AD754AE732B6     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_french.txt
-         17302      1 210F7275A7014C8C08AE5642FB0A7F309B2CAEA4     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_german.txt
-          5558      1 CC13B9A1BE9D7CA61A4498DC8C358330F4BC115A     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_greek.txt
-         14956      1 37D6A77D822C8FBE5DF601E47DB54F9B54BD94FA     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_hungarian.txt
-         14736      1 4C8011BAB05397128F32B0E2F22B93761D7EDD05     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_japanese.txt
-          9450      1 134CD8846E6E1B866C8B0250CB0C2B8086B5C473     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_polish.txt
-          3762      1 BB4382CA528047590872D83154EB23815AA44571     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_romanian.txt
-          1202      1 92909A3715838992864DAE3043071B99B61AF88B     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_russian.txt
-         17730      1 11014971E52753AEE3D00DD6BD14E1556E3AFE3F     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_spanish.txt
-         16834      1 450FFF83B79B22B77CC323C62D3BEEE9480CDEE8     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_swedish.txt
-          9972      1 E8B2217B2CB1D29E5D1A79F5E105328799FEFA08     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_turkish.txt
-           980      1 54C74A7BE4544E1267B274FBC5F0DCFCC754F2AA     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_ukrainian.txt
+          9876      1 516AE2BF5C0BE5C40D6F5B87466FC46FCDDCF94C     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_brazilian.txt
+         18852      1 BA7DFEF6707A3B0E60085D443150BD2CD6B6F763     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_bulgarian.txt
+          9528      1 CE3B10A5C8AA8AFB6F4577FD7116BBA5043BCCD1     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_dutch.txt
+          8664      1 AA761F9F34104256A4ECBD654AC4FB1C5D64F0E3     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_english.txt
+         19356      1 B3D985EC311D04BB28F1A1AD06964788C1502A2F     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_french.txt
+         19428      1 1E14C7E063BFB84A70C31E95956A66ACDA7A00A2     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_german.txt
+         11704      1 C5A32FA9AC3307C2D26D8EC7FDEFC3698938F631     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_greek.txt
+         16776      1 53C92E69D5591D2670C441355DDCB10B536CF838     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_hungarian.txt
+         15342      1 1E1DE7B6862EEB19FA3623DD8FDD36C792B902DE     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_japanese.txt
+         13640      1 C68E0B0EC6CE6592F5C7C9E7EC4D20C3EBEA458A     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_polish.txt
+         10716      1 253EA7FACCA003E1AE136FF7E285DAC76B37AC59     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_romanian.txt
+         19474      1 8767673D68CED817EC00C974D0D83C2E8D6AEABE     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_russian.txt
+         14400      1 4627808E531777BE8A21D81C45E2451717D6C1FC     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_schinese.txt
+         18430      1 C09A26920CE51AD91F9D83A1DD6F5159EDAB60A1     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_spanish.txt
+         17688      1 B6631CF3B531CF3B9B0A6A073ACB9B3943FFBFBC     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_swedish.txt
+         14400      1 66C0B231A422DF30B9E5A5AA732BCEDA1F9F7429     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_tchinese.txt
+         13932      1 3717B239A41D2640C07C084502EC881B26B37251     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_turkish.txt
+          9122      1 C4FA8C1E4CED49A39554B1108B9BAFD89871526A     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_ukrainian.txt
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\win32
              0      0 0000000000000000000000000000000000000000    64 bin\tools\bin\win32\platforms
              0      0 0000000000000000000000000000000000000000    64 bin\win64
