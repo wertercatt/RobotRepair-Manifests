@@ -1,10 +1,10 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 5089510355086081429 / 2016-02-22 18:11:33
-Total number of files  : 6509
-Total number of chunks : 10393
-Total bytes on disk    : 4746783634
-Total bytes compressed : 1985814512
+Manifest ID / date     : 5742800956941940638 / 2016-02-26 15:58:30
+Total number of files  : 6510
+Total number of chunks : 10394
+Total bytes on disk    : 4746774450
+Total bytes compressed : 1985826064
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -4147,11 +4147,10 @@ Total bytes compressed : 1985814512
          41950      1 B6C275F5C792D2D54EF508C8A59625746DB35C54     0 vr\aperture\models\2de01c99\holo_bp10_anim.vanim_c
           5024      1 0037B97B5F8361CC08EB1352B4FEA97CBA7283C6     0 vr\aperture\models\2de01c99_holo_bp10.vagrp_c
              0      0 0000000000000000000000000000000000000000    64 vr\aperture\models\329912b2
-         10912      1 0476EF0FBC0404A4302E0D42E3ED5A3F289C543D     0 vr\aperture\models\329912b2\grab.vanim_c
-          7640      1 BD6BC98D0874000C6AD657191CF5F51582381C81     0 vr\aperture\models\329912b2\idle.vanim_c
-          9940      1 B1C06676BD6A685265D917116281FF253EEF2FEF     0 vr\aperture\models\329912b2\ungrab.vanim_c
-         14972      1 0DDEFC61D4286918AB1BF9629B8A14FA6B79BDA2     0 vr\aperture\models\329912b2\vr_controller_anims.vanim_c
-          6808      1 437A8C44A5F1FE8B19D5D517A3CC59A1E3DB6362     0 vr\aperture\models\329912b2_vr_controller.vagrp_c
+          8876      1 E522D78AC9576A9DA6F170324997656583A1E92A     0 vr\aperture\models\329912b2\grab.vanim_c
+          7480      1 D2BF9174CF1A1A619E1B89A1CB38C5DCCBABE3FE     0 vr\aperture\models\329912b2\idle.vanim_c
+          8480      1 3A170E407881F1D9C077B5774B2877429D40F04B     0 vr\aperture\models\329912b2\ungrab.vanim_c
+         10540      1 A9B5123BCA941EB05D86F3916C38724373B12E95     0 vr\aperture\models\329912b2\vr_controller_anims.vanim_c
              0      0 0000000000000000000000000000000000000000    64 vr\aperture\models\3879119e
         228694      1 30303F8905A8880C52F15E9D19CC09CFBC0CC211     0 vr\aperture\models\3879119e\atlas_collapse_anim.vanim_c
          15926      1 A9290B33FE01AB5B225AE927068A041A9A259DC9     0 vr\aperture\models\3879119e\atlas_collapse_pre_idle.vanim_c
@@ -5393,8 +5392,9 @@ Total bytes compressed : 1985814512
          80534      1 F554C3E19EF5C8D7EE5C70BE3AB56290DDFD90E0     0 vr\aperture\models\uv_set_test_widget.vmesh_c
           4976      1 8C0BB00298AED886CB61DC19508651AD3D98B5EB     0 vr\aperture\models\vista_crane.vmdl_c
         259217      1 BC450534B60454D7D752C2F0F13A6F85A341D6BF     0 vr\aperture\models\vista_crane.vmesh_c
-          5660      1 E4F182F15C0BB2C88380DC256EDB0DAAEB2BDB42     0 vr\aperture\models\vr_controller.vmdl_c
-       1251479      2 15F0F99E849F815090C6780370E5B38C3189CE22     0 vr\aperture\models\vr_controller.vmesh_c
+          4800      1 97DC763D0D2C68B09DCFF0D13DA25F3BCB9357C6     0 vr\aperture\models\vr_controller.vmdl_c
+       1251753      2 198E1A666B988EE466B11046B686F64C416B0DB3     0 vr\aperture\models\vr_controller.vmesh_c
+          4952      1 2B6385F4326FF7C659D71B43EAC456B8D826BE11     0 vr\aperture\models\vr_controller_329912b2.vagrp_c
           3644      1 FC91B82A986C4D813F16F9A215982DA11CD1F9EE     0 vr\aperture\models\vr_teleport_area.vmdl_c
           1877      1 B4D525935DB481DCDE38026E6219A48158A1EE08     0 vr\aperture\models\vr_teleport_area.vmesh_c
           3660      1 A0E8B3873AA6AB14AE1018410FF3D9F70163E963     0 vr\aperture\models\vr_teleport_destination.vmdl_c
@@ -6806,6 +6806,7 @@ Total bytes compressed : 1985814512
           1632      1 5C6D22088B1F3CA05C2A996D07BF1B3F725D168F     0 vr\particles\aperture_demo\vr_atlas_internals_holo_child.vpcf_c
           1927      1 ACB7D6367392A08A7193FC5D89F7AFE38592D8DE     0 vr\particles\aperture_demo\vr_atlas_internals_holo_new.vpcf_c
           1763      1 2C234BD468A9528124F1DB5D7013BEA05AF58E5E     0 vr\particles\aperture_demo\vr_controller_modelparticles.vpcf_c
+          1160      1 655B8264B7C74FB2B1A21B9BA01CDCF948DA8E4B     0 vr\particles\aperture_demo\vr_teleport_beam.vpcf_c
              0      0 0000000000000000000000000000000000000000    64 vr\particles\atmospherics
           1999      1 45B6D7BD75E86A6AEB3105D3ED6E4BD1255D3469     0 vr\particles\atmospherics\atmos_fx_linger.vpcf_c
            802      1 D12D0E5A5C76BE81007E0193F7BAD16E620F26A3     0 vr\particles\atmospherics\plasterfx_combined.vpcf_c
@@ -6897,7 +6898,7 @@ Total bytes compressed : 1985814512
           1610      1 FF9ED1EC699A3625743A42A3E7BCF46745257927     0 vr\particles\spark_fx\sparks_omni_i.vpcf_c
           1496      1 3E16EC28E6FC2F1588770624EC126F0E23A2DE01     0 vr\particles\spark_fx\sparks_omni_j.vpcf_c
           1331      1 3C646D6EB183D27310CE2082CE065F446131B90F     0 vr\particles\spark_fx\sparks_omni_k.vpcf_c
-       1610343      2 0210991A08EF86B4EA846AFD9D5BFA6F7E487BEB     0 vr\readonly_tools_asset_info.bin
+       1610529      2 AE7130586FD11F0CC84A57CB2DD03D00C42B851A     0 vr\readonly_tools_asset_info.bin
              0      0 0000000000000000000000000000000000000000    64 vr\resource
           2923      1 7A21C1BD1346A7EAA80E0D145905246C3EB904BF     0 vr\resource\hltvevents.res
              0      0 0000000000000000000000000000000000000000    64 vr\scripts
