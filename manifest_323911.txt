@@ -1,10 +1,10 @@
 Content Manifest for Depot 323911
 
-Manifest ID / date     : 2940976126545213398 / 2016-03-10 19:51:57
+Manifest ID / date     : 2191138767087544039 / 2016-03-25 19:57:43
 Total number of files  : 6503
 Total number of chunks : 10387
-Total bytes on disk    : 4746214743
-Total bytes compressed : 1985597408
+Total bytes on disk    : 4746214849
+Total bytes compressed : 1985597440
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 bin
@@ -28,7 +28,7 @@ Total bytes compressed : 1985597408
          18854      1 7560CA04235CAFB3E1468239AF5CE5CB45A91354     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_brazilian.txt
          19690      1 28179B67409B14398162646F297B3E0E387B7F3D     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_bulgarian.txt
           9528      1 CE3B10A5C8AA8AFB6F4577FD7116BBA5043BCCD1     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_dutch.txt
-          8664      1 AA761F9F34104256A4ECBD654AC4FB1C5D64F0E3     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_english.txt
+          8770      1 1C1252C7E911446F10A7863499DD30B3A957A617     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_english.txt
          20164      1 C3B49AB8C95225DF1974BA52EC1893FEA5B7589D     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_french.txt
          19408      1 492F77C17AEB0549A1F4883983BE96C4D3343B7A     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_german.txt
          11704      1 C5A32FA9AC3307C2D26D8EC7FDEFC3698938F631     0 bin\tools\bin\content\vrperftestviewer\translations\vrperftestviewer_greek.txt
