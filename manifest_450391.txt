@@ -1,10 +1,10 @@
 Content Manifest for Depot 450391
 
-Manifest ID / date     : 449502595557548658 / 2020-03-19 20:15:25
-Total number of files  : 1698
-Total number of chunks : 17755
-Total bytes on disk    : 16476884099
-Total bytes compressed : 6628538192
+Manifest ID / date     : 674975629045080281 / 2020-08-28 20:34:46
+Total number of files  : 1700
+Total number of chunks : 17757
+Total bytes on disk    : 16476913107
+Total bytes compressed : 6628541360
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 RobotRepair
@@ -1694,6 +1694,7 @@ Total bytes compressed : 6628538192
          78336      1 CD7486E9CAFD6928079719FBBF8736A3BA0397AD     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.XRModule.dll
          27468      1 A78E3A0BB73A8F9FE8182901B15EDE837C18F3E1     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.XRModule.dll.mdb
         360960      1 03E8F840A5460766AD107F726C987A56D2FEAD9D     0 TheLab\win64\TheLab_Data\Managed\Valve.Newtonsoft.Json.dll
+         13935      1 B31E15CDDB8FB515A8C59F8F6131485892590DF9     0 TheLab\win64\TheLab_Data\output_log.txt
              0      0 0000000000000000000000000000000000000000    64 TheLab\win64\TheLab_Data\Plugins
         418304      1 B67BA92FAB291866E9FEB5DD467EE0739EA1E8D0     0 TheLab\win64\TheLab_Data\Plugins\audioplugin_phonon.dll
          81408      1 1020DC01859085BB17458C4D7C5A7926EEF88871     0 TheLab\win64\TheLab_Data\Plugins\FlushPlugin.dll
@@ -1758,7 +1759,8 @@ Total bytes compressed : 6628538192
       20830656     21 71161A4A250C40ECE4B1D347800A8E13F5B99805     0 TheLab\win64\TheLab_Data\sharedassets9.resource
              0      0 0000000000000000000000000000000000000000    64 TheLab\win64\TheLab_Data\StreamingAssets
              0      0 0000000000000000000000000000000000000000    64 TheLab\win64\TheLab_Data\StreamingAssets\SteamVR
-          5287      1 5CAB5994E709F86B8CB69518C19BE2C2597C7279     0 TheLab\win64\TheLab_Data\StreamingAssets\SteamVR\actions.json
+          5401      1 7B798D93D31161B5DBF0C1934AE87CFF31B7B319     0 TheLab\win64\TheLab_Data\StreamingAssets\SteamVR\actions.json
+         14959      1 3ED77DC3A62A39DC31FB7AACAE7D5588902D6C9D     0 TheLab\win64\TheLab_Data\StreamingAssets\SteamVR\bindings_hpcontroller.json
          16189      1 8BA8635AA8707534E72D51394D7681C551AD105A     0 TheLab\win64\TheLab_Data\StreamingAssets\SteamVR\bindings_index.json
          15046      1 449E4DA585985BF3020B7B9F5C711301222FB059     0 TheLab\win64\TheLab_Data\StreamingAssets\SteamVR\bindings_rift.json
          17047      1 AA87F05A7082AF34C7D9D3BAEBE909F565CD0943     0 TheLab\win64\TheLab_Data\StreamingAssets\SteamVR\bindings_vive.json
