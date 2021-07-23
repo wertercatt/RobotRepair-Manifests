@@ -1,10 +1,10 @@
 Content Manifest for Depot 450391
 
-Manifest ID / date     : 5369658486903523868 / 2021-07-22 19:07:25
+Manifest ID / date     : 1843054027462406127 / 2021-07-22 19:45:31
 Total number of files  : 1848
 Total number of chunks : 17880
-Total bytes on disk    : 16479185855
-Total bytes compressed : 6652310496
+Total bytes on disk    : 16478914231
+Total bytes compressed : 6652233712
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 RobotRepair
@@ -1460,13 +1460,13 @@ Total bytes compressed : 6652310496
              0      0 0000000000000000000000000000000000000000    64 SecretShop\win64\SecretShop_Data\GI\level0\dd
           3236      1 BBAABA3FAECB5284073191F3B7CE34F2822982E5     0 SecretShop\win64\SecretShop_Data\GI\level0\dd\dd926a91a4e9e2edcbc591b1d250170f.pos
         127554      1 7A9484C75D082E0B05ADA050440DE790CB43D4E6     0 SecretShop\win64\SecretShop_Data\GI\level0\dd\dd926a91a4e9e2edcbc591b1d250170f.rpc.sse
-         62632      1 C82383B92DA86286D67C6552D099883CE58BFD2F     0 SecretShop\win64\SecretShop_Data\globalgamemanagers
+         62632      1 AF4CA054DC02FF6B72538C602DD3A3DC9C308CE9     0 SecretShop\win64\SecretShop_Data\globalgamemanagers
         126372      1 C2DC8784B759F8492E0BFD0FA890FA17363CE3A3     0 SecretShop\win64\SecretShop_Data\globalgamemanagers.assets
       19203848     21 99C8B472B4823747B533849DB33F9A4CCC5BCEB6     0 SecretShop\win64\SecretShop_Data\level0
       20764040     20 7472366C9BDBD97D308CEA8C3F3175F418EDA108     0 SecretShop\win64\SecretShop_Data\level0.resS
              0      0 0000000000000000000000000000000000000000    64 SecretShop\win64\SecretShop_Data\Managed
-        573952      1 6765D03C776C1D93237208CB70D269E56EB62A33     0 SecretShop\win64\SecretShop_Data\Managed\Assembly-CSharp-firstpass.dll
-       1046016      1 D93D11B5F25A251EB65A186A811B857D80D394BF     0 SecretShop\win64\SecretShop_Data\Managed\Assembly-CSharp.dll
+        573952      1 FA778275C687ED4D8AB95F92BECB4520CB557A92     0 SecretShop\win64\SecretShop_Data\Managed\Assembly-CSharp-firstpass.dll
+       1046016      1 CB87C4436BDC811AD2412ADBDA99A7F1285E0D56     0 SecretShop\win64\SecretShop_Data\Managed\Assembly-CSharp.dll
         212480      1 C04E331B6415BF566E1AA26550BF794651704C7C     0 SecretShop\win64\SecretShop_Data\Managed\Mono.Posix.dll
         309248      1 36890188D80598132D63561DED707E641282F2A1     0 SecretShop\win64\SecretShop_Data\Managed\Mono.Security.dll
        4072448      4 AD2BA623BC5B225D760E0298C6A0EC12D4787D15     0 SecretShop\win64\SecretShop_Data\Managed\mscorlib.dll
@@ -1478,8 +1478,8 @@ Total bytes compressed : 6652310496
         184320      1 CE5BB0EDB6E50C70B0CF188DD875C257DA76E627     0 SecretShop\win64\SecretShop_Data\Managed\System.Security.dll
         214528      1 66D9ECA7EC0856DAD9C0EC37670F5A4513AA7303     0 SecretShop\win64\SecretShop_Data\Managed\System.ServiceModel.Internals.dll
        3138048      3 62DCED36DC642E847912952E9778C9F19970767C     0 SecretShop\win64\SecretShop_Data\Managed\System.Xml.dll
-          7680      1 9D17E7F57CB1A5FE29A16B27C7321BCF753DDF71     0 SecretShop\win64\SecretShop_Data\Managed\Unity.Analytics.DataPrivacy.dll
-        331776      1 33F1DE17F329B9FD9FF46A83EEF751D99370181B     0 SecretShop\win64\SecretShop_Data\Managed\Unity.TextMeshPro.dll
+          7680      1 D6745BCB38F0979B39AD0E6EFECC3B1F491C926A     0 SecretShop\win64\SecretShop_Data\Managed\Unity.Analytics.DataPrivacy.dll
+        331776      1 BF784315622C13A9BF3AD092B486AC11D303C784     0 SecretShop\win64\SecretShop_Data\Managed\Unity.TextMeshPro.dll
          11776      1 F0651F5488CCC0EAFC42737B16E941E70D45F14B     0 SecretShop\win64\SecretShop_Data\Managed\UnityEngine.AccessibilityModule.dll
           1208      1 1FBCADC484892766B755F2577EAE1A724BB0F757     0 SecretShop\win64\SecretShop_Data\Managed\UnityEngine.AccessibilityModule.dll.mdb
          44544      1 4F2139ECB41580F69DF03238F1316DD19691CC8E     0 SecretShop\win64\SecretShop_Data\Managed\UnityEngine.AIModule.dll
@@ -1565,7 +1565,7 @@ Total bytes compressed : 6652310496
           6124      1 8AC81A744FDF1B5225BC1510089CBDD937BD1546     0 SecretShop\win64\SecretShop_Data\Managed\UnityEngine.TilemapModule.dll.mdb
           8192      1 A1590D2A32A01C3FDCFAA5254115CC00F22EE171     0 SecretShop\win64\SecretShop_Data\Managed\UnityEngine.TLSModule.dll
            112      1 8D7BF31BC887F19262F60043B3C088945D431BD8     0 SecretShop\win64\SecretShop_Data\Managed\UnityEngine.TLSModule.dll.mdb
-        224256      1 679C7B853CC53246506595E33992B98963C13E86     0 SecretShop\win64\SecretShop_Data\Managed\UnityEngine.UI.dll
+        224256      1 0E145075E5AD1585B2C8269627463B0873D2CA90     0 SecretShop\win64\SecretShop_Data\Managed\UnityEngine.UI.dll
         576000      1 73A81514798D1FB95849320B3763FEFA6A9B9906     0 SecretShop\win64\SecretShop_Data\Managed\UnityEngine.UIElementsModule.dll
         368474      1 B9A034869EC4E901B428E02177B3D8CBCDA2DF83     0 SecretShop\win64\SecretShop_Data\Managed\UnityEngine.UIElementsModule.dll.mdb
          22016      1 BE9AC0599BEC5E0DCC0B65391B5ECAB1427EBD13     0 SecretShop\win64\SecretShop_Data\Managed\UnityEngine.UIModule.dll
@@ -1617,7 +1617,7 @@ Total bytes compressed : 6652310496
        3828612      4 EBD20D2A795E791236F06F4B21714A4CCFCDC790     0 SecretShop\win64\SecretShop_Data\Resources\unity default resources
         417052      1 4C34E3FFC58417EB4983FCBAED899B7F26058719     0 SecretShop\win64\SecretShop_Data\Resources\unity_builtin_extra
        1610688      2 F9DAF4090B33F1569B98C951CE49CA9F6552F7BE     0 SecretShop\win64\SecretShop_Data\ScreenSelector.png
-      95659596     93 DD2906785CD9B2E36AFA65A78024FC878F004956     0 SecretShop\win64\SecretShop_Data\sharedassets0.assets
+      95636420     93 94D99F2EF43E3AEFB7679988327BFEFE204D44C9     0 SecretShop\win64\SecretShop_Data\sharedassets0.assets
     1267972100   1258 432689AB0593E949A62C77E90594038F13A13961     0 SecretShop\win64\SecretShop_Data\sharedassets0.assets.resS
          58496      1 0929BD494223C4CB3D94CC65DA798FEC7238C035     0 SecretShop\win64\SecretShop_Data\sharedassets0.resource
              0      0 0000000000000000000000000000000000000000    64 SecretShop\win64\SecretShop_Data\StreamingAssets
@@ -1664,8 +1664,8 @@ Total bytes compressed : 6652310496
              0      0 0000000000000000000000000000000000000000    64 TheLab\win64\TheLab_Data
             13      1 6D738AEFCAB18EF0B50B805CAE5E9B78F8BB0F5C     0 TheLab\win64\TheLab_Data\app.info
            169      1 D954FD022C368FE8E6D66CCFC1D4C4CC39023F25     0 TheLab\win64\TheLab_Data\boot.config
-        152120      1 85E4C5F509122BCEBF4BD1B8B239C194AD3C2492     0 TheLab\win64\TheLab_Data\globalgamemanagers
-      34954192     34 52B9828224AEA9738EF895CDE3780921E486417E     0 TheLab\win64\TheLab_Data\globalgamemanagers.assets
+        152120      1 59BFA56CF44CCE8A49068B39580596473B66BE02     0 TheLab\win64\TheLab_Data\globalgamemanagers
+      34718232     34 E243E189C30B948E0B71F1CECF169913034ADD8B     0 TheLab\win64\TheLab_Data\globalgamemanagers.assets
          42416      1 DA3615FE4EBF7A04FCB3D296F0008E2642C102E6     0 TheLab\win64\TheLab_Data\level0
         131232      1 7038EBB79564B750323A42B34E37974C59C8565A     0 TheLab\win64\TheLab_Data\level0.resS
       48472536     47 195C2F59076D6B33558C90B198D7006DE554115C     0 TheLab\win64\TheLab_Data\level1
@@ -1686,8 +1686,8 @@ Total bytes compressed : 6652310496
              0      0 0000000000000000000000000000000000000000    64 TheLab\win64\TheLab_Data\Managed
           3584      1 B8855292EC91172DC19B28DB69634CA8495360F3     0 TheLab\win64\TheLab_Data\Managed\AmplifyColor.dll
           2560      1 886A67255D016362160CFA1FD7B30B9313815402     0 TheLab\win64\TheLab_Data\Managed\Assembly-Boo.dll
-        800768      1 89918B52B911589D3196F2A6DD463C49FFED96CE     0 TheLab\win64\TheLab_Data\Managed\Assembly-CSharp-firstpass.dll
-       2895872      3 7C6FE5B5AC22B156E55E777DED42E587A3F49BF2     0 TheLab\win64\TheLab_Data\Managed\Assembly-CSharp.dll
+        800768      1 F539C6EB3503FE6EF4D92797FB317FDCA7875D2F     0 TheLab\win64\TheLab_Data\Managed\Assembly-CSharp-firstpass.dll
+       2895872      3 8D59C0AD53239B91525BC32EE243C29285044210     0 TheLab\win64\TheLab_Data\Managed\Assembly-CSharp.dll
          12288      1 1C283DA4C228CE1C34C1DF1DC5F32DF5B2532524     0 TheLab\win64\TheLab_Data\Managed\Assembly-UnityScript-firstpass.dll
          34304      1 564F333E84F759C77B1309085F3488A5F257C373     0 TheLab\win64\TheLab_Data\Managed\Assembly-UnityScript.dll
         126976      1 A9E8F93C450671D4E7549419846F12DF7ADE411A     0 TheLab\win64\TheLab_Data\Managed\Boo.Lang.dll
@@ -1703,9 +1703,9 @@ Total bytes compressed : 6652310496
         184320      1 CE5BB0EDB6E50C70B0CF188DD875C257DA76E627     0 TheLab\win64\TheLab_Data\Managed\System.Security.dll
         214528      1 66D9ECA7EC0856DAD9C0EC37670F5A4513AA7303     0 TheLab\win64\TheLab_Data\Managed\System.ServiceModel.Internals.dll
        3138048      3 62DCED36DC642E847912952E9778C9F19970767C     0 TheLab\win64\TheLab_Data\Managed\System.Xml.dll
-          7680      1 B5731F7AAA653C3F1F7BDC31BA5F5D98C2E21037     0 TheLab\win64\TheLab_Data\Managed\Unity.Analytics.DataPrivacy.dll
-        331776      1 3F11B833B6C5399DDFF627FB4ADD634FD9673AA1     0 TheLab\win64\TheLab_Data\Managed\Unity.TextMeshPro.dll
-        107008      1 5E76321F3BC1EB3D8E6B17419ECCFE6839128EBE     0 TheLab\win64\TheLab_Data\Managed\Unity.Timeline.dll
+          7680      1 254BF9F355B5254EDA8100FCE2E7B956C70B7A3A     0 TheLab\win64\TheLab_Data\Managed\Unity.Analytics.DataPrivacy.dll
+        331776      1 6D78624F16429DE577884BBC3835FC5C5A22DD2E     0 TheLab\win64\TheLab_Data\Managed\Unity.TextMeshPro.dll
+        107008      1 765C20E641401175EB25CE5762ABC2B6C93E182B     0 TheLab\win64\TheLab_Data\Managed\Unity.Timeline.dll
          11776      1 F0651F5488CCC0EAFC42737B16E941E70D45F14B     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.AccessibilityModule.dll
           1208      1 1FBCADC484892766B755F2577EAE1A724BB0F757     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.AccessibilityModule.dll.mdb
          44544      1 4F2139ECB41580F69DF03238F1316DD19691CC8E     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.AIModule.dll
@@ -1792,7 +1792,7 @@ Total bytes compressed : 6652310496
           6124      1 8AC81A744FDF1B5225BC1510089CBDD937BD1546     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.TilemapModule.dll.mdb
           8192      1 A1590D2A32A01C3FDCFAA5254115CC00F22EE171     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.TLSModule.dll
            112      1 8D7BF31BC887F19262F60043B3C088945D431BD8     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.TLSModule.dll.mdb
-        224256      1 8DC103C56979D2AEC2408ABBF886983D655F0C35     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.UI.dll
+        224256      1 D2C27D0D85BD2EDEEE4F08BC6AE4323866197BAC     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.UI.dll
         576000      1 73A81514798D1FB95849320B3763FEFA6A9B9906     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.UIElementsModule.dll
         368474      1 B9A034869EC4E901B428E02177B3D8CBCDA2DF83     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.UIElementsModule.dll.mdb
          22016      1 BE9AC0599BEC5E0DCC0B65391B5ECAB1427EBD13     0 TheLab\win64\TheLab_Data\Managed\UnityEngine.UIModule.dll
@@ -1882,7 +1882,7 @@ Total bytes compressed : 6652310496
        2880312      3 4E21274F6F2B621A38AE0FE3A9B55A05D89AFC56     0 TheLab\win64\TheLab_Data\sharedassets13.assets
      151423548    145 BF20778EE15CBBAD8A7FD4873AA97700B5500741     0 TheLab\win64\TheLab_Data\sharedassets13.assets.resS
        1336512      2 26BE369BABC25844E04C68584C075519B01F9E88     0 TheLab\win64\TheLab_Data\sharedassets13.resource
-     603433136    576 4C0EA2DE574F9F363F68CB28D45CE358BAB7DF5D     0 TheLab\win64\TheLab_Data\sharedassets14.assets
+     603420960    576 DA788F3B0ED36B3B4DDBCCA41D7E55772AB97783     0 TheLab\win64\TheLab_Data\sharedassets14.assets
       17356496     17 06C464D86ACBBC01A7EDD75BBF0199F210840522     0 TheLab\win64\TheLab_Data\sharedassets14.assets.resS
       17296608     18 B7C03F94CB618F44D6CF4D12E3FFE6F9A5F69AE6     0 TheLab\win64\TheLab_Data\sharedassets14.resource
       67756276     70 0FA7923F7274AC24AAA2A23DC43BBEF8C7F25D7D     0 TheLab\win64\TheLab_Data\sharedassets15.assets
@@ -1894,7 +1894,7 @@ Total bytes compressed : 6652310496
      133609608    133 E9E20388E7DAF1507B8D65530ABDFAFAE1C8D3EB     0 TheLab\win64\TheLab_Data\sharedassets3.assets
     1465556288   1409 BD11258EE52C4271224717B0E73941D0143BEB81     0 TheLab\win64\TheLab_Data\sharedassets3.assets.resS
       94703296     94 D81077327F5263E349A5785DBB13EBCB626F2842     0 TheLab\win64\TheLab_Data\sharedassets3.resource
-      70429284     68 4BD898B7B38B2A6AC9B83B082CD4DBB387B8340A     0 TheLab\win64\TheLab_Data\sharedassets4.assets
+      70429148     68 4DD995E556C44D4455CB8F77C4FEE3E730AA541D     0 TheLab\win64\TheLab_Data\sharedassets4.assets
      774741712    744 F75643257B66F34945A43B35BC07C96CBAB6A684     0 TheLab\win64\TheLab_Data\sharedassets4.assets.resS
       71218432     69 74DAB0DE77A3B90F2D68A00360D37B42E3402714     0 TheLab\win64\TheLab_Data\sharedassets4.resource
       34579028     33 A40E9DF7916CEDE8C388515C8D1DB7E41B80D653     0 TheLab\win64\TheLab_Data\sharedassets5.assets
@@ -1903,7 +1903,7 @@ Total bytes compressed : 6652310496
       12764880     13 A39DA3CD6CF88015FCD2CD824C0241E602E56DED     0 TheLab\win64\TheLab_Data\sharedassets6.assets
      636800012    610 1563E22DA1727D98C46602D79BD2F7F8EC19D117     0 TheLab\win64\TheLab_Data\sharedassets6.assets.resS
       74798624     78 202747EF8A6032A43BFD551280AC9461713F6C6B     0 TheLab\win64\TheLab_Data\sharedassets6.resource
-     108754068    105 D66C5E96C0150A468B3E191F758559334F3064CE     0 TheLab\win64\TheLab_Data\sharedassets7.assets
+     108753892    105 746D6FEE853B4124EB38A42B78EB2887E1969EEA     0 TheLab\win64\TheLab_Data\sharedassets7.assets
      645901672    617 9E67DE3EA58D0D1F3F6E4627DA0AE234BD7DB3D9     0 TheLab\win64\TheLab_Data\sharedassets7.assets.resS
       25316992     26 B8FEEE7918F40D0F6AA8670C22E79C651B9233DD     0 TheLab\win64\TheLab_Data\sharedassets7.resource
      121620108    116 E61C93602A3218291E3F2A84B6381D3440C2D619     0 TheLab\win64\TheLab_Data\sharedassets8.assets
