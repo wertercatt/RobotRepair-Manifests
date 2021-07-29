@@ -1,10 +1,10 @@
 Content Manifest for Depot 450391
 
-Manifest ID / date     : 7382389488832918988 / 2021-07-29 16:15:16
-Total number of files  : 1665
+Manifest ID / date     : 1844075142143301125 / 2021-07-29 16:48:51
+Total number of files  : 1666
 Total number of chunks : 17947
-Total bytes on disk    : 16701232345
-Total bytes compressed : 6663349728
+Total bytes on disk    : 16701546009
+Total bytes compressed : 6663446112
 
           Size Chunks File SHA                                 Flags Name
              0      0 0000000000000000000000000000000000000000    64 RobotRepair
@@ -1471,6 +1471,7 @@ Total bytes compressed : 6663349728
        1761792      2 DAE19D585D4CF6008E2A7BA0355C09998F6FE01D     0 SecretShop\win64\SecretShop_Data\Plugins\fmodl.dll
        1839104      2 77384E3EDBF24FBD63EABC8A2658C4E8E77FD22B     0 SecretShop\win64\SecretShop_Data\Plugins\fmodstudio.dll
        2511360      3 BF10C0C228EC53CC3C67B83780DB76D8271B7062     0 SecretShop\win64\SecretShop_Data\Plugins\fmodstudiol.dll
+        313664      1 D6099C52DF462CC96328487AC277B0505E11B6A8     0 SecretShop\win64\SecretShop_Data\Plugins\openvr_api.dll
        1083392      2 845FC1AEB7F8E18E5FB3A2A42FD84438D105F23D     0 SecretShop\win64\SecretShop_Data\Plugins\steam_api.dll
              0      0 0000000000000000000000000000000000000000    64 SecretShop\win64\SecretShop_Data\Resources
         431132      1 7811CDC63FADBF67E41E4DC939C249668BACC1E7     0 SecretShop\win64\SecretShop_Data\resources.assets
@@ -1704,7 +1705,7 @@ Total bytes compressed : 6663349728
      150809320    145 6BE87AAFE0FADE9CD0A58178FAE250F45A4DF968     0 TheLab\win64\TheLab_Data\sharedassets15.assets.resS
       17308736     17 7AACB5A7426813C23D8791B6605DE134BC911D16     0 TheLab\win64\TheLab_Data\sharedassets15.resource
       21171012     24 9181E2F825B3D47A048CFC3B524B8ACAF948E003     0 TheLab\win64\TheLab_Data\sharedassets2.assets
-     292309332    286 3F430F0FBEF75015D549607DFF7650EB6DB25FFC     0 TheLab\win64\TheLab_Data\sharedassets2.assets.resS
+     292309332    285 3F430F0FBEF75015D549607DFF7650EB6DB25FFC     0 TheLab\win64\TheLab_Data\sharedassets2.assets.resS
       38122176     39 C8622ED7AE0767CDF81169AFCBC670FA3CAB8FD4     0 TheLab\win64\TheLab_Data\sharedassets2.resource
      133715912    133 2CB7D7FBD0572D27F513299EBF45BA8FA9622B2E     0 TheLab\win64\TheLab_Data\sharedassets3.assets
     1465556288   1409 806AE8FD092414EB00F97FD96E5E7567730DE187     0 TheLab\win64\TheLab_Data\sharedassets3.assets.resS
